@@ -1008,7 +1008,6 @@
 
 - [techno-tim/k3s-ansible](https://github.com/techno-tim/k3s-ansible) - The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more
 - [geerlingguy/turing-pi-2-cluster](https://github.com/geerlingguy/turing-pi-2-cluster) - DEPRECATED - Turing Pi 2 Cluster
-- [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) - 
 
 ## Jupyter Notebook 
 
@@ -1345,6 +1344,7 @@
 
 ## Shell 
 
+- [denouche/go-mod-outdated-action](https://github.com/denouche/go-mod-outdated-action) - 
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
 - [TareqAlqutami/rtmp-hls-server](https://github.com/TareqAlqutami/rtmp-hls-server) - a docker file to create a streaming server that supports RTMP, HLS and DASH content based on nginx and nginx-rtmp-module.
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
@@ -1577,6 +1577,7 @@
 ## YAML 
 
 - [stejoo/ansible-teamspeak](https://github.com/stejoo/ansible-teamspeak) - Ansible role to deploy a TeamSpeak 3 server
+- [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) - 
 
 
 ## License
