@@ -255,6 +255,7 @@
 
 ## api 
 
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [Thiht/smocker](https://github.com/Thiht/smocker) - Smocker is a simple and efficient HTTP mock server and proxy.
 - [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit) - Batteries-included backend that works with any stack.
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
@@ -1098,6 +1099,11 @@
 
 ## go 
 
+- [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
+- [phsym/console-slog](https://github.com/phsym/console-slog) - A handler for slog that prints colorized logs, similar to zerolog's console writer output without sacrificing performances
+- [mitranim/gow](https://github.com/mitranim/gow) - Missing watch mode for Go commands. Watch Go files and execute a command like "go run" or "go test"
+- [go-simpler/sloggen](https://github.com/go-simpler/sloggen) - 🪵 Generate various helpers for log/slog
+- [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
 - [samber/slog-logrus](https://github.com/samber/slog-logrus) - 🚨 slog: Logrus handler
 - [remko/cloudrun-slog](https://github.com/remko/cloudrun-slog) - Example Cloud Run Go app with lightweight structured logging using `slog`
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -1332,6 +1338,10 @@
 
 ## golang 
 
+- [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
+- [phsym/console-slog](https://github.com/phsym/console-slog) - A handler for slog that prints colorized logs, similar to zerolog's console writer output without sacrificing performances
+- [mitranim/gow](https://github.com/mitranim/gow) - Missing watch mode for Go commands. Watch Go files and execute a command like "go run" or "go test"
+- [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
 - [samber/slog-logrus](https://github.com/samber/slog-logrus) - 🚨 slog: Logrus handler
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
@@ -1633,6 +1643,8 @@
 
 ## hacktoberfest 
 
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+- [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [muesli/go-app-paths](https://github.com/muesli/go-app-paths) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs)
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -1821,6 +1833,7 @@
 
 ## http 
 
+- [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -2411,6 +2424,8 @@
 
 ## others 
 
+- [motemen/go-nuts](https://github.com/motemen/go-nuts) - Go code I want sometimes but too small to be a separate library
+- [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go
 - [Backblaze/blazer](https://github.com/Backblaze/blazer) - A Go library for Backblaze's B2.
 - [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects.
 - [jussi-kalliokoski/slogdriver](https://github.com/jussi-kalliokoski/slogdriver) - Stackdriver Logging / GCP Cloud Logging handler for the go 1.21 slog package.
@@ -3122,6 +3137,7 @@
 
 ## rest-api 
 
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -3241,6 +3257,7 @@
 
 ## server 
 
+- [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
