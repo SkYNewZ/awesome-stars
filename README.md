@@ -238,6 +238,7 @@
 
 ## Go 
 
+- [Unleash/unleash-client-go](https://github.com/Unleash/unleash-client-go) - Unleash client SDK for Go
 - [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
 - [phsym/console-slog](https://github.com/phsym/console-slog) - A handler for slog that prints colorized logs, similar to zerolog's console writer output without sacrificing performances
 - [mitranim/gow](https://github.com/mitranim/gow) - Missing watch mode for Go commands. Watch Go files and execute a command like "go run" or "go test"
@@ -978,7 +979,6 @@
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [jaywcjlove/amac](https://github.com/jaywcjlove/amac) - This is developed for Awesome-Mac.
-- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications
@@ -1019,6 +1019,7 @@
 
 ## Jinja 
 
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [techno-tim/k3s-ansible](https://github.com/techno-tim/k3s-ansible) - The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more
 - [geerlingguy/turing-pi-2-cluster](https://github.com/geerlingguy/turing-pi-2-cluster) - DEPRECATED - Turing Pi 2 Cluster
 
