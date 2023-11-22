@@ -105,6 +105,7 @@
 
 ## C# # 
 
+- [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [Deweh/CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - A simplified offshoot of SirBitesalot's CyberCAT.
 - [cDima/Aerial](https://github.com/cDima/Aerial) - Aerial Apple TV screen saver for Windows
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
@@ -238,6 +239,7 @@
 
 ## Go 
 
+- [samber/slog-webhook](https://github.com/samber/slog-webhook) - 🚨 slog: Webhook handler
 - [lmittmann/tint](https://github.com/lmittmann/tint) - 🌈 slog.Handler that writes tinted (colorized) logs
 - [samber/slog-multi](https://github.com/samber/slog-multi) - 🚨 Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing...
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
@@ -1081,6 +1083,7 @@
 
 ## Others 
 
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [bradfitz/issue-tracker-behaviors](https://github.com/bradfitz/issue-tracker-behaviors) - 
 - [GoLinks/golinks](https://github.com/GoLinks/golinks) - GoLinks also known as go links, golinks, go/links, or go-links. Intuitive, easy-to-remember short links, shared by teams.
@@ -1325,6 +1328,7 @@
 
 ## Rust 
 
+- [davidchalifoux/kaput-cli](https://github.com/davidchalifoux/kaput-cli) - The unofficial CLI client for Put.io - Kaput lets you manage your Put.io account from the comfort of your terminal!
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [Songbird0/FR_RBE](https://github.com/Songbird0/FR_RBE) - Traduction française du livre https://rustbyexample.com/
