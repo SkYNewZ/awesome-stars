@@ -316,6 +316,7 @@
 
 ## awesome 
 
+- [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -347,6 +348,7 @@
 
 ## awesome-list 
 
+- [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
@@ -503,6 +505,7 @@
 
 ## cli 
 
+- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [davidchalifoux/kaput-cli](https://github.com/davidchalifoux/kaput-cli) - The unofficial CLI client for Put.io - Kaput lets you manage your Put.io account from the comfort of your terminal!
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
 - [NathanBaulch/protoc-gen-cobra](https://github.com/NathanBaulch/protoc-gen-cobra) - Cobra command line tool generator for gRPC clients
@@ -1024,6 +1027,7 @@
 
 ## gh-extension 
 
+- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
@@ -1112,11 +1116,10 @@
 
 ## go 
 
-- [samber/slog-webhook](https://github.com/samber/slog-webhook) - 🚨 slog: Webhook handler
+- [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) - PlantUML Class Diagram Generator for golang projects
 - [samber/slog-multi](https://github.com/samber/slog-multi) - 🚨 Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing...
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [Unleash/unleash-client-go](https://github.com/Unleash/unleash-client-go) - Unleash client SDK for Go
-- [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
 - [phsym/console-slog](https://github.com/phsym/console-slog) - A handler for slog that prints colorized logs, similar to zerolog's console writer output without sacrificing performances
 - [mitranim/gow](https://github.com/mitranim/gow) - Missing watch mode for Go commands. Watch Go files and execute a command like "go run" or "go test"
 - [go-simpler/sloggen](https://github.com/go-simpler/sloggen) - 🪵 Generate various helpers for log/slog
@@ -1355,12 +1358,12 @@
 
 ## golang 
 
-- [samber/slog-webhook](https://github.com/samber/slog-webhook) - 🚨 slog: Webhook handler
+- [sethvargo/go-githubactions](https://github.com/sethvargo/go-githubactions) - Go SDK for GitHub Actions - easily author GitHub Actions in Go
+- [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) - PlantUML Class Diagram Generator for golang projects
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [lmittmann/tint](https://github.com/lmittmann/tint) - 🌈 slog.Handler that writes tinted (colorized) logs
 - [samber/slog-multi](https://github.com/samber/slog-multi) - 🚨 Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing...
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
-- [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
 - [phsym/console-slog](https://github.com/phsym/console-slog) - A handler for slog that prints colorized logs, similar to zerolog's console writer output without sacrificing performances
 - [mitranim/gow](https://github.com/mitranim/gow) - Missing watch mode for Go commands. Watch Go files and execute a command like "go run" or "go test"
 - [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
@@ -1664,9 +1667,11 @@
 
 ## hacktoberfest 
 
+- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
+- [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
+- [apvarun/toastify-js](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
-- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [Unleash/unleash-client-go](https://github.com/Unleash/unleash-client-go) - Unleash client SDK for Go
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
@@ -1860,9 +1865,7 @@
 
 ## http 
 
-- [samber/slog-webhook](https://github.com/samber/slog-webhook) - 🚨 slog: Webhook handler
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-- [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -1934,6 +1937,7 @@
 
 ## javascript 
 
+- [apvarun/toastify-js](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit) - Batteries-included backend that works with any stack.
@@ -2453,6 +2457,7 @@
 
 ## others 
 
+- [jamsyoung/iterm2-random-background](https://github.com/jamsyoung/iterm2-random-background) - Randomly sets an image as the background in iTerm2
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
 - [motemen/go-nuts](https://github.com/motemen/go-nuts) - Go code I want sometimes but too small to be a separate library
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go
@@ -3288,7 +3293,6 @@
 
 ## server 
 
-- [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
