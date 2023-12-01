@@ -2026,6 +2026,7 @@
 
 ## kubernetes 
 
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Kubernetes Control Plane Manager.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -2814,7 +2815,6 @@
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [GoogleCloudPlatform/cloud-code-vscode](https://github.com/GoogleCloudPlatform/cloud-code-vscode) - Cloud Code for Visual Studio Code: Issues, Documentation and more
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
-- [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [legacy-tech-repos/goldmark](https://github.com/legacy-tech-repos/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [thura10/airwave](https://github.com/thura10/airwave) - Share Files between iOS and Windows without hassle.
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
