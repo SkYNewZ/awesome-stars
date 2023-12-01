@@ -239,6 +239,7 @@
 
 ## Go 
 
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [sethvargo/go-githubactions](https://github.com/sethvargo/go-githubactions) - Go SDK for GitHub Actions - easily author GitHub Actions in Go
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) - PlantUML Class Diagram Generator for golang projects
@@ -765,7 +766,6 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
-- [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [legacy-tech-repos/goldmark](https://github.com/legacy-tech-repos/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
