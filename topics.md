@@ -212,6 +212,7 @@
 
 ## ai 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
@@ -462,6 +463,7 @@
 
 ## chatgpt 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT
@@ -2372,6 +2374,7 @@
 
 ## nextjs 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [sportstimes/f1](https://github.com/sportstimes/f1) - Second edition of F1 Calendar  🏎📅
@@ -2459,6 +2462,7 @@
 
 ## others 
 
+- [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [adityak74/google-drive-upload-git-action](https://github.com/adityak74/google-drive-upload-git-action) - Github action that uploads files to Google Drive
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [jamsyoung/iterm2-random-background](https://github.com/jamsyoung/iterm2-random-background) - Randomly sets an image as the background in iTerm2
@@ -2635,7 +2639,7 @@
 - [rakyll/go-test-trace](https://github.com/rakyll/go-test-trace) - Go test with tracing.
 - [k3s-io/klipper-lb](https://github.com/k3s-io/klipper-lb) - Embedded service load balancer in Klipper
 - [bufbuild/buf-tour](https://github.com/bufbuild/buf-tour) - 
-- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
+- [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [johanbrandhorst/grpc-gateway-boilerplate](https://github.com/johanbrandhorst/grpc-gateway-boilerplate) - All the boilerplate you need to get started with writing grpc-gateway powered REST services in Go
