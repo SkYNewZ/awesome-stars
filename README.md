@@ -239,6 +239,8 @@
 
 ## Go 
 
+- [anon-org/golang-dependency-injection-using-wire](https://github.com/anon-org/golang-dependency-injection-using-wire) - Golang Dependency Injection Using Wire Repository
+- [uber-go/dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
 - [GoTestTools/gotestfmt](https://github.com/GoTestTools/gotestfmt) - go test output for humans
 - [adityak74/google-drive-upload-git-action](https://github.com/adityak74/google-drive-upload-git-action) - Github action that uploads files to Google Drive
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
@@ -271,7 +273,7 @@
 - [motemen/go-loghttp](https://github.com/motemen/go-loghttp) - Go library to log http.Client's requests and responses automatically
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [madflojo/tasks](https://github.com/madflojo/tasks) - Package tasks is an easy to use in-process scheduler for recurring tasks in Go
-- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
+- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Control Plane Manager for Kubernetes.
 - [xeipuuv/gojsonschema](https://github.com/xeipuuv/gojsonschema) - An implementation of JSON Schema, draft v4 v6 & v7 - Go language
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [crhuber/golinks](https://github.com/crhuber/golinks) - A Google-like Go short link service
@@ -918,6 +920,7 @@
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [francoismari/elyze](https://github.com/francoismari/elyze) - 
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playba
@@ -1521,7 +1524,6 @@
 - [PreMiD/PreMiD](https://github.com/PreMiD/PreMiD) - 🧬 Source code of the PreMiD application.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
-- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [minio/console](https://github.com/minio/console) - Simple UI for MinIO Object Storage :abacus:
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
