@@ -239,6 +239,7 @@
 
 ## Go 
 
+- [jjti/go-spancheck](https://github.com/jjti/go-spancheck) - checks usage of OpenTelemetry spans
 - [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively
 - [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge.
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
@@ -283,7 +284,7 @@
 - [muesli/go-app-paths](https://github.com/muesli/go-app-paths) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs)
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup & encrypt secrets from a HashiCorp Vault KV-v2 engine
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, import, document, backup & encrypt secrets from a HashiCorp Vault KV engine
 - [motemen/go-loghttp](https://github.com/motemen/go-loghttp) - Go library to log http.Client's requests and responses automatically
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [madflojo/tasks](https://github.com/madflojo/tasks) - Package tasks is an easy to use in-process scheduler for recurring tasks in Go
@@ -1319,7 +1320,7 @@
 - [koenrh/delete-tweets](https://github.com/koenrh/delete-tweets) - Delete tweets from your timeline.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [hannob/snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
