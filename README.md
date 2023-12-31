@@ -43,7 +43,6 @@
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
-- [Pug](#pug)
 - [Python](#python)
 - [Riot](#riot)
 - [Ruby](#ruby)
@@ -1216,10 +1215,6 @@
 ## PowerShell 
 
 - [tibold/svg-explorer-extension](https://github.com/tibold/svg-explorer-extension) - Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files
-
-## Pug 
-
-- [StartBootstrap/startbootstrap-clean-blog](https://github.com/StartBootstrap/startbootstrap-clean-blog) - A clean Bootstrap blog theme created by Start Bootstrap
 
 ## Python 
 
