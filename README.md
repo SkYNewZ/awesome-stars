@@ -127,7 +127,6 @@
 - [HaveIBeenPwned/PwnedPasswordsAzureFunction](https://github.com/HaveIBeenPwned/PwnedPasswordsAzureFunction) - APIs for the k-anonymity Pwned Passwords implementation
 - [BarRaider/streamdeck-advancedlauncher](https://github.com/BarRaider/streamdeck-advancedlauncher) - Smart application launcher for the Elgato Stream Deck
 - [BarRaider/streamdeck-obstools](https://github.com/BarRaider/streamdeck-obstools) - Advanced OBS commands and tools to use on your Elgato Stream Deck
-- [BarRaider/streamdeck-supermacro](https://github.com/BarRaider/streamdeck-supermacro) - Create sophisticated macros easily and run them through your Stream Deck
 - [robvdpol/RaceControl](https://github.com/robvdpol/RaceControl) - Race Control is a standalone, open source F1TV client for Windows, written in C# on the .NET platform.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [WOA-Project/WoA-Installer-Rpi](https://github.com/WOA-Project/WoA-Installer-Rpi) - This repository was deprecated, use:
@@ -1083,7 +1082,7 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Mercury 
 
