@@ -2801,7 +2801,6 @@
 - [tystuyfzand/streamdeck-sdk-go](https://github.com/tystuyfzand/streamdeck-sdk-go) - Golang Stream Deck SDK
 - [BarRaider/streamdeck-advancedlauncher](https://github.com/BarRaider/streamdeck-advancedlauncher) - Smart application launcher for the Elgato Stream Deck
 - [BarRaider/streamdeck-obstools](https://github.com/BarRaider/streamdeck-obstools) - Advanced OBS commands and tools to use on your Elgato Stream Deck
-- [BarRaider/streamdeck-supermacro](https://github.com/BarRaider/streamdeck-supermacro) - Create sophisticated macros easily and run them through your Stream Deck
 - [fredemmott/StreamDeck-Discord](https://github.com/fredemmott/StreamDeck-Discord) - Control the Discord application with the Elgato StreamDeck
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
@@ -2816,7 +2815,7 @@
 - [ottomated/CrewLink-server](https://github.com/ottomated/CrewLink-server) - Voice Relay server for CrewLink.
 - [ottomated/CrewLink](https://github.com/ottomated/CrewLink) - Free, open, Among Us Proximity Chat
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [kyokomi/emoji](https://github.com/kyokomi/emoji) - :sushi: emoji terminal output for golang
 - [markbates/pkger](https://github.com/markbates/pkger) - Embed static files in Go binaries (replacement for gobuffalo/packr)
 - [jpaille/GoogleMeetMirror](https://github.com/jpaille/GoogleMeetMirror) - Flip camera on Google Meet to match what other really see.
