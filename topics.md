@@ -2700,7 +2700,7 @@
 - [bradleyjkemp/grpc-tools](https://github.com/bradleyjkemp/grpc-tools) - A suite of gRPC debugging tools. Like Fiddler/Charles but for gRPC.
 - [avinassh/grpc-errors](https://github.com/avinassh/grpc-errors) - A handy guide to gRPC errors
 - [googleapis/go-genproto](https://github.com/googleapis/go-genproto) - Generated code for Google Cloud client libraries.
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 - [cbroglie/mustache](https://github.com/cbroglie/mustache) - The mustache template language in Go
 - [ugorji/go](https://github.com/ugorji/go) - idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go]
 - [pquerna/ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
