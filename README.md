@@ -556,7 +556,7 @@
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [googleapis/go-genproto](https://github.com/googleapis/go-genproto) - Generated code for Google Cloud client libraries.
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 - [cbroglie/mustache](https://github.com/cbroglie/mustache) - The mustache template language in Go
 - [ugorji/go](https://github.com/ugorji/go) - idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go]
 - [pquerna/ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
