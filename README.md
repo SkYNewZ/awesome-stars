@@ -1178,7 +1178,6 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [docker/for-linux](https://github.com/docker/for-linux) - Docker Engine for Linux
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [enochtangg/quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -1453,6 +1452,7 @@
 - [nullbleed/fancy-motd](https://github.com/nullbleed/fancy-motd) - 
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [nordtheme/gnome-terminal](https://github.com/nordtheme/gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -1501,7 +1501,7 @@
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) - The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-- [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create a custom, lightweight macOS app from a group of websites
+- [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create custom, lightweight macOS apps from websites
 - [trnserdar/Formula-One](https://github.com/trnserdar/Formula-One) - 🏎 A prototype app about Formula One using latest SwiftUI.
 - [KenLPham/F1-AppleTV](https://github.com/KenLPham/F1-AppleTV) - F1TV app for the Apple TV
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
@@ -1538,7 +1538,7 @@
 - [marcincichocki/breach-protocol-autosolver](https://github.com/marcincichocki/breach-protocol-autosolver) - Solve breach protocol minigame in second(s). Windows/Linux/GeForce Now/Google Stadia. Every language.
 - [Thiht/smocker](https://github.com/Thiht/smocker) - Smocker is a simple and efficient HTTP mock server and proxy.
 - [GeekyEggo/sdpi-components](https://github.com/GeekyEggo/sdpi-components) - Web components for your Stream Deck plugin; take the hassle out of the property inspector.
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert curl commands into code
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 26 other languages
 - [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit) - Batteries-included backend that works with any stack.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
