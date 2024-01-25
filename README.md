@@ -239,6 +239,7 @@
 
 ## Go 
 
+- [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - Package graphql provides a GraphQL client implementation.
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
@@ -1100,7 +1101,7 @@
 - [objective-see/DNSMonitor](https://github.com/objective-see/DNSMonitor) - A DNS Monitor, leveraging Apple's NEDNSProxyProvider/Network Extension Framework
 - [heyvito/podman-macos](https://github.com/heyvito/podman-macos) - 📦  Podman frontend for macOS
 - [billziss-gh/EnergyBar](https://github.com/billziss-gh/EnergyBar) - Supercharge your Mac's Touch Bar.
-- [nicoSWD/put.io-adder](https://github.com/nicoSWD/put.io-adder) - MacOS put.io client that acts as handler for magnet: links and .torrent files, and adds them to your put.io download queue
+- [nicoSWD/put.io-adder](https://github.com/nicoSWD/put.io-adder) - macOS put.io client that acts as handler for magnet: links and .torrent files, and adds them to your put.io download queue
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Official frugal and native macOS Syncthing application bundle
 - [Alinto/sogo](https://github.com/Alinto/sogo) - SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h
