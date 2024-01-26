@@ -2515,6 +2515,7 @@
 
 ## others 
 
+- [ruimarinho/little-snitch-rules](https://github.com/ruimarinho/little-snitch-rules) - Rule groups for easy subscriptions for Little Snitch 4.1+
 - [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - Package graphql provides a GraphQL client implementation.
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [jjti/go-spancheck](https://github.com/jjti/go-spancheck) - checks usage of OpenTelemetry/Census spans
