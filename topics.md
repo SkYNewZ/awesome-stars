@@ -223,6 +223,7 @@
 
 ## analytics 
 
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
@@ -715,6 +716,7 @@
 
 ## data-science 
 
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 
 ## data-structures 
@@ -727,6 +729,7 @@
 
 ## database 
 
+- [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [vaphes/pocketbase](https://github.com/vaphes/pocketbase) - PocketBase client SDK for python
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
@@ -1143,6 +1146,9 @@
 
 ## go 
 
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
+- [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [norbjd/kueueleuleu](https://github.com/norbjd/kueueleuleu) - Run containers sequentially inside Kubernetes Pods/Jobs/CronJobs.
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
@@ -1393,6 +1399,8 @@
 
 ## golang 
 
+- [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
@@ -2377,6 +2385,7 @@
 
 ## microsoft 
 
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [fossteams/teams-cli](https://github.com/fossteams/teams-cli) - A CLI / TUI for Microsoft Teams
 - [WOA-Project/WoA-Installer-Rpi](https://github.com/WOA-Project/WoA-Installer-Rpi) - This repository was deprecated, use:
 
@@ -2417,6 +2426,7 @@
 
 ## mysql 
 
+- [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -2517,6 +2527,7 @@
 
 ## others 
 
+- [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice
 - [ruimarinho/little-snitch-rules](https://github.com/ruimarinho/little-snitch-rules) - Rule groups for easy subscriptions for Little Snitch 4.1+
 - [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - Package graphql provides a GraphQL client implementation.
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
@@ -3063,6 +3074,7 @@
 
 ## postgresql 
 
+- [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
@@ -3477,6 +3489,7 @@
 
 ## statistics 
 
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -3758,6 +3771,7 @@
 
 ## web 
 
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -3856,6 +3870,7 @@
 
 ## xml 
 
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 
