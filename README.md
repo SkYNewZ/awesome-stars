@@ -35,6 +35,7 @@
 - [Markdown](#markdown)
 - [Mercury](#mercury)
 - [Mustache](#mustache)
+- [Nix](#nix)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
 - [Others](#others)
@@ -1101,6 +1102,10 @@
 - [Skeen/helm-bitwarden_rs](https://github.com/Skeen/helm-bitwarden_rs) - Helm chart for the bitwarden_rs project.
 - [cdwv/bitwarden-k8s](https://github.com/cdwv/bitwarden-k8s) - Helm chart for deploying bitwarden-rs in Kubernetes
 
+## Nix 
+
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
+
 ## Objective-C 
 
 - [objective-see/DNSMonitor](https://github.com/objective-see/DNSMonitor) - A DNS Monitor, leveraging Apple's NEDNSProxyProvider/Network Extension Framework
@@ -1444,7 +1449,6 @@
 - [rlespinasse/github-slug-action](https://github.com/rlespinasse/github-slug-action) - GitHub Action to expose slug value of GitHub environment variables inside your GitHub workflow
 - [hashicorp-community/tf-helper](https://github.com/hashicorp-community/tf-helper) - Commands for performing operations on Terraform states, configurations, TFE using the API, and more. Please target all PRs to the master branch, not the release branch.
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [lukaszlach/commando](https://github.com/lukaszlach/commando) - :whale: Container registry which provides you all the commands you need in a lightweight Alpine image. DevOps and SysOps best friend. https://command-not-found.com
