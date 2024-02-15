@@ -1543,6 +1543,7 @@
 
 ## TypeScript 
 
+- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice
 - [kentaro-m/auto-assign-action](https://github.com/kentaro-m/auto-assign-action) - An action which adds reviewers to the pull request when the pull request is opened.
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
