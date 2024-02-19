@@ -1117,6 +1117,7 @@
 - [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest "nightly" build/artifact from a continuous testing workflow
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.
 - [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [shoenig/ssh-key-sync](https://github.com/shoenig/ssh-key-sync) - A tool for synchronizing your GitHub SSH keys onto servers authorized_keys files
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub action for golangci-lint from its authors
 - [Nightonke/Gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github
