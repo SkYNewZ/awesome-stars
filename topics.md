@@ -2554,6 +2554,7 @@
 
 ## others 
 
+- [Pacerino/CaddyProxyManager](https://github.com/Pacerino/CaddyProxyManager) - CaddyProxyManager - Manage Caddy via a web interface
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [JeffreyCA/Apollo-ImprovedCustomApi](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi) - Use your own Reddit and Imgur API credentials in Apollo
 - [actions/delete-package-versions](https://github.com/actions/delete-package-versions) - 
