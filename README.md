@@ -1008,7 +1008,6 @@
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
 - [idoco/intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger
 - [huchenme/github-trending-api](https://github.com/huchenme/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [RandomAPI/Randomuser.me-Node](https://github.com/RandomAPI/Randomuser.me-Node) - Source code that powers randomuser.me
 - [bhamrick/multitwitch](https://github.com/bhamrick/multitwitch) - Multiple twitch streams on one page
@@ -1625,6 +1624,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [premieroctet/screen-guru](https://github.com/premieroctet/screen-guru) - 🔮 Screen Guru takes clean screenshot of any websites
