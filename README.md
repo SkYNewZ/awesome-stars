@@ -1254,7 +1254,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points.
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [jackblk/DeviceAuthGenerator](https://github.com/jackblk/DeviceAuthGenerator) - Program to easily create device auths for use in Epic Games API authentication.
 - [YggNode/yggnode](https://github.com/YggNode/yggnode) - Kind of CDN for rss feed and .torrent files concerned for YGGtorrent
