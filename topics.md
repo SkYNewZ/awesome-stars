@@ -2578,7 +2578,7 @@
 - [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice
 - [ruimarinho/little-snitch-rules](https://github.com/ruimarinho/little-snitch-rules) - Rule groups for easy subscriptions for Little Snitch 4.1+
 - [hasura/go-graphql-client](https://github.com/hasura/go-graphql-client) - Package graphql provides a GraphQL client implementation.
-- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
+- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 - [jjti/go-spancheck](https://github.com/jjti/go-spancheck) - checks usage of OpenTelemetry/Census spans
 - [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively
 - [AVerMedia-Technologies-Inc/CreatorCentralSDK](https://github.com/AVerMedia-Technologies-Inc/CreatorCentralSDK) - AVerMedia Creator Central SDK
