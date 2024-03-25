@@ -396,7 +396,7 @@
 
 ## aws 
 
-- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Control Plane Manager for Kubernetes.
+- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
 - [cycloidio/inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -413,7 +413,7 @@
 
 ## azure 
 
-- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Control Plane Manager for Kubernetes.
+- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
@@ -2107,7 +2107,7 @@
 
 - [norbjd/kueueleuleu](https://github.com/norbjd/kueueleuleu) - Run containers sequentially inside Kubernetes Pods/Jobs/CronJobs.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
-- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Control Plane Manager for Kubernetes.
+- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
@@ -2317,7 +2317,6 @@
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [PreMiD/PreMiD](https://github.com/PreMiD/PreMiD) - 🧬 Source code of the PreMiD application.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-- [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -2681,6 +2680,7 @@
 - [fatih/hclfmt](https://github.com/fatih/hclfmt) - Format and prettify HCL files
 - [arturodz/protobuf-rabbitmq](https://github.com/arturodz/protobuf-rabbitmq) - Sample Code for Protocol Buffers & RabbitMQ in Golang
 - [0x0c/AppleDevToys](https://github.com/0x0c/AppleDevToys) - A Swiss Army knife for iOS and macOS.
+- [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go
 - [BarRaider/streamdeck-voicemeeter](https://github.com/BarRaider/streamdeck-voicemeeter) - VoiceMeeter integration for Stream Deck
 - [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
@@ -3573,7 +3573,6 @@
 - [kmikiy/SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar
 - [mssun/passforios](https://github.com/mssun/passforios) - Pass for iOS - an iOS client compatible with Pass command line application.
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
-- [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [mshibanami/GitHubTrendingRSS](https://github.com/mshibanami/GitHubTrendingRSS) - Unofficial RSS feed generator for GitHub Trending
 - [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - [Examples] Simple basic isolated apps, for budding flutter devs.
