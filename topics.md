@@ -714,6 +714,7 @@
 
 ## dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [mdanics/fluttergram](https://github.com/mdanics/fluttergram) - A fully functional Instagram clone written in Flutter using Firebase / Firestore
 - [tommyxchow/frosty](https://github.com/tommyxchow/frosty) - A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.
 - [FilledStacks/flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) - The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
@@ -1013,6 +1014,7 @@
 
 ## flutter 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [mdanics/fluttergram](https://github.com/mdanics/fluttergram) - A fully functional Instagram clone written in Flutter using Firebase / Firestore
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
@@ -1025,6 +1027,7 @@
 
 ## flutter-apps 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [tommyxchow/frosty](https://github.com/tommyxchow/frosty) - A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - [Examples] Simple basic isolated apps, for budding flutter devs.
