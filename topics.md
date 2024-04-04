@@ -2568,6 +2568,7 @@
 
 ## others 
 
+- [osmandapp/OsmAnd-iOS](https://github.com/osmandapp/OsmAnd-iOS) - OsmAnd for iOS
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts
 - [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
 - [marocchino/validate-dependabot](https://github.com/marocchino/validate-dependabot) - validate dependabot yaml
