@@ -539,7 +539,6 @@
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - The source for the CLI and web app at gcping.com
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) - Kubernetes Cloud Controller Manager for Scaleway
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -1083,6 +1082,7 @@
 ## MDX 
 
 - [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 
 ## Makefile 
 
