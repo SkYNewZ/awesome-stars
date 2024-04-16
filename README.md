@@ -923,6 +923,7 @@
 
 ## JavaScript 
 
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [apvarun/toastify-js](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages
@@ -1133,7 +1134,7 @@
 - [GoLinks/golinks](https://github.com/GoLinks/golinks) - GoLinks also known as go links, golinks, go/links, or go-links. Intuitive, easy-to-remember short links, shared by teams.
 - [dannycolin/webext-search-providers](https://github.com/dannycolin/webext-search-providers) - A Collections of WebExtension to add search providers with keyword to your browser
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
-- [cdemetriadis/lovely-streamdeck-icons](https://github.com/cdemetriadis/lovely-streamdeck-icons) - A collection of icons for use with your Elgato Stream Deck.
+- [Lovely-Sim-Racing/lovely-streamdeck-icons](https://github.com/Lovely-Sim-Racing/lovely-streamdeck-icons) - A collection of icons for use with your Elgato Stream Deck.
 - [gotify/contrib](https://github.com/gotify/contrib) - A list of community contributions.
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [mishmanners/stream-deck-template](https://github.com/mishmanners/stream-deck-template) - Template for the Elgato Stream Deck's standby screen/screensaver.
