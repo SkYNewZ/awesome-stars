@@ -976,7 +976,6 @@
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [jpaille/GoogleMeetMirror](https://github.com/jpaille/GoogleMeetMirror) - Flip camera on Google Meet to match what other really see.
 - [JasonEtco/todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
-- [Guisch/yggfetch](https://github.com/Guisch/yggfetch) - Bypass YGGTorrent cloudflare challenge (does not solve the captcha).
 - [davidor/formula1-lap-charts](https://github.com/davidor/formula1-lap-charts) - Lap chart visualization of Formula 1 races.
 - [outlandnish/ext-f1-tv](https://github.com/outlandnish/ext-f1-tv) - Browser Extension that enables modern playback controls + Google Cast support for F1 TV
 - [rfletcher/safari-json-formatter](https://github.com/rfletcher/safari-json-formatter) - A Safari extension which makes valid JSON documents human-readable.
