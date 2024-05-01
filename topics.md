@@ -2936,7 +2936,7 @@
 - [zitryss/go-sample](https://github.com/zitryss/go-sample) - Go Project Sample Layout
 - [deep-gaurav/MusicPiped](https://github.com/deep-gaurav/MusicPiped) - A Materialistic Music player that streams music
 - [mherrmann/fbs-tutorial](https://github.com/mherrmann/fbs-tutorial) - Tutorial for creating Python/Qt GUIs with fbs
-- [hashicorp/go-tfe](https://github.com/hashicorp/go-tfe) - Terraform Cloud/Enterprise API Client/SDK in Golang
+- [hashicorp/go-tfe](https://github.com/hashicorp/go-tfe) - HCP Terraform/Enterprise API Client/SDK in Golang
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) - go client library for PagerDuty v2 API
 - [stevestreza/awesome-ios-widgets](https://github.com/stevestreza/awesome-ios-widgets) - A curated list of home screen widgets for apps on iOS 14+
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
