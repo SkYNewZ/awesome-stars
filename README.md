@@ -762,7 +762,7 @@
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
-- [hashicorp/go-tfe](https://github.com/hashicorp/go-tfe) - Terraform Cloud/Enterprise API Client/SDK in Golang
+- [hashicorp/go-tfe](https://github.com/hashicorp/go-tfe) - HCP Terraform/Enterprise API Client/SDK in Golang
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) - go client library for PagerDuty v2 API
 - [mitchellh/go-glint](https://github.com/mitchellh/go-glint) - Component-based UI-framework for command-line tools. Easily create highly dynamic CLI interfaces using shared, easily testable components.
