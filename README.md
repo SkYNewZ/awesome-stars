@@ -436,7 +436,7 @@
 - [arturodz/protobuf-rabbitmq](https://github.com/arturodz/protobuf-rabbitmq) - Sample Code for Protocol Buffers & RabbitMQ in Golang
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
-- [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
+- [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go, originally by @nlopes; Maintainers needed, contact @parsley42
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
@@ -532,7 +532,7 @@
 - [vmware-archive/kubewatch](https://github.com/vmware-archive/kubewatch) - Watch k8s events and trigger Handlers
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
 - [robscott/kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. - WE'RE ON HOLIDAY UNTIL MAY 23rd - REPO IS READ-ONLY TO NON-CONTRIBUTORS UNTIL THEN
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
