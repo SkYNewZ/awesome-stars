@@ -701,7 +701,6 @@
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [covergates/covergates](https://github.com/covergates/covergates) - The portal gates to coverage reports
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
-- [akatsuki105/OpenPokemonRed](https://github.com/akatsuki105/OpenPokemonRed) - WIP: An open-source re-implementation of Pokémon Red
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [kyokomi/emoji](https://github.com/kyokomi/emoji) - :sushi: emoji terminal output for golang
 - [markbates/pkger](https://github.com/markbates/pkger) - Embed static files in Go binaries (replacement for gobuffalo/packr)
