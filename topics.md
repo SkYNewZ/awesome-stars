@@ -1434,6 +1434,7 @@
 
 ## golang 
 
+- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [MHNightCat/superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
@@ -1734,6 +1735,7 @@
 
 ## graphql 
 
+- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [samsarahq/thunder](https://github.com/samsarahq/thunder) - ⚡️ A Go framework for rapidly building powerful graphql services
 - [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit) - Batteries-included backend that works with any stack.
