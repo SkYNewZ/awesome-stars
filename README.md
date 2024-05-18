@@ -240,7 +240,7 @@
 
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [MHNightCat/superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts
 - [Pacerino/CaddyProxyManager](https://github.com/Pacerino/CaddyProxyManager) - CaddyProxyManager - Manage Caddy via a web interface
