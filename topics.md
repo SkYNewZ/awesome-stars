@@ -2586,6 +2586,7 @@
 
 ## others 
 
+- [Finding-mll/Parking_space_alert.py](https://github.com/Finding-mll/Parking_space_alert.py) - 
 - [osmandapp/OsmAnd-iOS](https://github.com/osmandapp/OsmAnd-iOS) - OsmAnd for iOS
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts
 - [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
