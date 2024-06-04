@@ -1181,6 +1181,7 @@
 
 ## go 
 
+- [omissis/go-jsonschema](https://github.com/omissis/go-jsonschema) - A tool to generate Go data types from JSON Schema definitions.
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
@@ -1434,6 +1435,7 @@
 
 ## golang 
 
+- [omissis/go-jsonschema](https://github.com/omissis/go-jsonschema) - A tool to generate Go data types from JSON Schema definitions.
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -2091,6 +2093,7 @@
 
 ## json 
 
+- [omissis/go-jsonschema](https://github.com/omissis/go-jsonschema) - A tool to generate Go data types from JSON Schema definitions.
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
