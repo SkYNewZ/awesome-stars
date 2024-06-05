@@ -2589,6 +2589,7 @@
 
 ## others 
 
+- [giantswarm/schemalint](https://github.com/giantswarm/schemalint) - A JSON schema linter built for some specific purposes at Giant Swarm
 - [Finding-mll/Parking_space_alert.py](https://github.com/Finding-mll/Parking_space_alert.py) - 
 - [osmandapp/OsmAnd-iOS](https://github.com/osmandapp/OsmAnd-iOS) - OsmAnd for iOS
 - [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) - A tool for automatically generating markdown documentation for helm charts
