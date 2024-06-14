@@ -1368,7 +1368,7 @@
 - [VirusTotal/vt-go](https://github.com/VirusTotal/vt-go) - The official Go client library for VirusTotal API
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go
 - [gonetx/httpit](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool written in Go
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 - [covergates/covergates](https://github.com/covergates/covergates) - The portal gates to coverage reports
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
@@ -1636,7 +1636,7 @@
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go
 - [gonetx/httpit](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool written in Go
 - [jhchabran/gistfs](https://github.com/jhchabran/gistfs) - A Go io/fs filesystem implementation for reading files in Github gists.
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
@@ -2002,7 +2002,7 @@
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - [Examples] Simple basic isolated apps, for budding flutter devs.
 - [keybase/go-keychain](https://github.com/keybase/go-keychain) - Golang keychain package for iOS and macOS
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
@@ -2310,7 +2310,7 @@
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Official frugal and native macOS Syncthing application bundle
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [dotWee/macOS-PiholeShortcuts](https://github.com/dotWee/macOS-PiholeShortcuts) - **DISCONTINUED** Manage and monitor your Pi-hole® instance through your status bar
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -2363,7 +2363,7 @@
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [muammar/mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices
 - [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create custom, lightweight macOS apps from websites
 - [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
@@ -2557,7 +2557,7 @@
 
 - [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - [Examples] Simple basic isolated apps, for budding flutter devs.
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Official frugal and native macOS Syncthing application bundle
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
@@ -2982,7 +2982,7 @@
 - [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos
 - [Mastercard/terraform-provider-restapi](https://github.com/Mastercard/terraform-provider-restapi) - A terraform provider to manage objects in a RESTful API
 - [AMD-OSX/AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla) - Native AMD macOS via OpenCore
-- [harismuneer/Ultimate-Social-Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) - 🤖 Top-rated tools to scrape all major sections from Facebook, Instagram and Twitter including posts (likes/comments), photos/videos, contact informations, followers, following and much more.
+- [harismuneer/Ultimate-Social-Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) - 🤖 Top-rated tools to scrape all major sections from Facebook, Instagram, TikTok and Twitter (X) including posts (likes/comments), photos/videos, contact information, followers, following and much more
 - [vscodethemes/web](https://github.com/vscodethemes/web) - Search and preview themes from the VS Code Marketplace.
 - [google/oauth2l](https://github.com/google/oauth2l) - oauth2l ("oauth tool") is a simple CLI for interacting with Google API authentication.
 - [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
