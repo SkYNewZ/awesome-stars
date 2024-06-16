@@ -1200,7 +1200,7 @@
 - [Unleash/unleash-client-go](https://github.com/Unleash/unleash-client-go) - Unleash client SDK for Go
 - [phsym/console-slog](https://github.com/phsym/console-slog) - A handler for slog that prints colorized logs, similar to zerolog's console writer output without sacrificing performances
 - [mitranim/gow](https://github.com/mitranim/gow) - Missing watch mode for Go commands. Watch Go files and execute a command like "go run" or "go test"
-- [go-simpler/sloggen](https://github.com/go-simpler/sloggen) - 🪵 Generate various helpers for log/slog
+- [go-simpler/sloggen](https://github.com/go-simpler/sloggen) - 🪵 Generate domain-specific wrappers for log/slog
 - [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
 - [samber/slog-logrus](https://github.com/samber/slog-logrus) - 🚨 slog: Logrus handler
 - [remko/cloudrun-slog](https://github.com/remko/cloudrun-slog) - Example Cloud Run Go app with lightweight structured logging using `slog`
