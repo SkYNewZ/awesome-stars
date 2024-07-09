@@ -239,6 +239,7 @@
 
 ## Go 
 
+- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
 - [brunoluiz/urlzap](https://github.com/brunoluiz/urlzap) - ⚡️ Your own static URL shortener
 - [giantswarm/schemalint](https://github.com/giantswarm/schemalint) - A JSON schema linter built for some specific purposes at Giant Swarm
@@ -1246,6 +1247,7 @@
 
 ## PowerShell 
 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows e
 - [tibold/svg-explorer-extension](https://github.com/tibold/svg-explorer-extension) - Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files
 
 ## Pug 
@@ -1611,7 +1613,7 @@
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [AmFlint/serverless-scaleway-apollo-typescript](https://github.com/AmFlint/serverless-scaleway-apollo-typescript) - Demonstration on how to run a Serverless (FAAS) GraphQL Endpoint with Apollo-Server-Lambda and TypeScript on Scaleway Serverless Platform
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [sighupio/permission-manager](https://github.com/sighupio/permission-manager) - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW
 - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A GitHub Action for installing and configuring the gcloud CLI.
