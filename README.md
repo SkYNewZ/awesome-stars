@@ -239,6 +239,7 @@
 
 ## Go 
 
+- [gofri/go-github-ratelimit](https://github.com/gofri/go-github-ratelimit) - A GoLang HTTP RoundTripper that handles GitHub API secondary rate limits
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
 - [brunoluiz/urlzap](https://github.com/brunoluiz/urlzap) - ⚡️ Your own static URL shortener
