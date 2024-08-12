@@ -39,7 +39,6 @@
 - [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PHP](#php)
-- [PLSQL](#plsql)
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
@@ -989,6 +988,7 @@
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
+- [spdermn02/TouchPortal_Discord_Plugin](https://github.com/spdermn02/TouchPortal_Discord_Plugin) - Touch Portal Plugin to Interact with Discord
 - [craftamap/owncast-browser-extension](https://github.com/craftamap/owncast-browser-extension) - Owncast Browser Extension is a Firefox extension used to follow various Owncast Instances
 - [jpaille/GoogleMeetMirror](https://github.com/jpaille/GoogleMeetMirror) - Flip camera on Google Meet to match what other really see.
 - [JasonEtco/todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
@@ -1233,10 +1233,6 @@
 - [misd-service-development/phone-number-bundle](https://github.com/misd-service-development/phone-number-bundle) - Integrates libphonenumber into your Symfony2-Symfony4 application
 - [espocrm/espocrm](https://github.com/espocrm/espocrm) - EspoCRM – Open Source CRM Application
 - [3035app/pialab-back](https://github.com/3035app/pialab-back) - 
-
-## PLSQL 
-
-- [spdermn02/TouchPortal_Discord_Plugin](https://github.com/spdermn02/TouchPortal_Discord_Plugin) - Touch Portal Plugin to Interact with Discord
 
 ## Pascal 
 
