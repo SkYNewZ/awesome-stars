@@ -581,7 +581,6 @@
 - [pquerna/ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
 - [psampaz/go-mod-outdated](https://github.com/psampaz/go-mod-outdated) - Find outdated dependencies of your Go projects. go-mod-outdated provides a table view of the go list -u -m -json all command which lists all dependencies of a Go project and their available minor and 
 - [SoftBellies/Bernard](https://github.com/SoftBellies/Bernard) - 
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise your Go program runtime metrics in real time in the browser
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [nishanths/license](https://github.com/nishanths/license) - Command line license text generator.
@@ -1394,6 +1393,7 @@
 - [Songbird0/FR_RBE](https://github.com/Songbird0/FR_RBE) - Traduction française du livre https://rustbyexample.com/
 - [sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) - [WORKING PROTOTYPE] Generate QR code easily for free - QR Code Generation as a Service
 - [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
