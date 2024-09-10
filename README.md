@@ -139,6 +139,7 @@
 
 ## C++ 
 
+- [Blueforcer/awtrix3](https://github.com/Blueforcer/awtrix3) - Custom firmware for the Ulanzi Smart Pixel clock or self made awtrix. Getting started is easy as 1-2-3
 - [ErrorFlynn/ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) - Windows graphical interface for yt-dlp, designed as a simple YouTube downloader
 - [PixelRick/CyberpunkSaveEditor](https://github.com/PixelRick/CyberpunkSaveEditor) - A tool to edit Cyberpunk 2077 sav.dat files
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
@@ -1391,6 +1392,7 @@
 
 ## Rust 
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI.
 - [davidchalifoux/kaput-cli](https://github.com/davidchalifoux/kaput-cli) - The unofficial CLI client for Put.io - Kaput lets you manage your Put.io account from the comfort of your terminal!
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
