@@ -239,6 +239,7 @@
 
 ## Go 
 
+- [raphoester/space-trouble-api](https://github.com/raphoester/space-trouble-api) - A simple CQRS backend boilerplate using gRPC, Docker and Postgres
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [DVDAndroid/glance-docker-container-ext](https://github.com/DVDAndroid/glance-docker-container-ext) - 
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
