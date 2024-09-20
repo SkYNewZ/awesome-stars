@@ -963,7 +963,6 @@
 - [samsarahq/thunder](https://github.com/samsarahq/thunder) - ⚡️ A Go framework for rapidly building powerful graphql services
 - [Zhwt/yaml-to-go](https://github.com/Zhwt/yaml-to-go) - Translates YAML into a Go type in your browser instantly.
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
-- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [TheGoddessInari/netflix-1080p-firefox](https://github.com/TheGoddessInari/netflix-1080p-firefox) - 🍿 Force 1080p Netflix playback in Firefox
 - [arnauddrain/yggplus](https://github.com/arnauddrain/yggplus) - A plugin for YGG torrent interface
 - [tobimori/streamdeck-toggl](https://github.com/tobimori/streamdeck-toggl) - ⏱️ Make time tracking a 🍰 piece of cake, with Toggl Track and Elgato Stream Deck (Toggl Track integration for Stream Deck)
@@ -1514,6 +1513,7 @@
 ## Svelte 
 
 - [spinspire/pocketbase-sveltekit-starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - a starter project to build a SvelteKit frontend with PocketBase backend
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [sveltejs/realworld](https://github.com/sveltejs/realworld) - SvelteKit implementation of the RealWorld app
 
 ## Swift 
