@@ -1840,6 +1840,7 @@
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Stream Deck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playb
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
@@ -2823,7 +2824,6 @@
 - [NicolasGuilloux/blade-shadow-beta](https://github.com/NicolasGuilloux/blade-shadow-beta) - Various documentation and tools for Shadow on Linux maintained by community
 - [kic68/downdetector-exporter](https://github.com/kic68/downdetector-exporter) - This is a prometheus exporter for downdetector.com. You will need a subscription for them!
 - [exeldro/obs-source-copy](https://github.com/exeldro/obs-source-copy) - 
-- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Stream Deck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playb
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 - [samhocevar/wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
 - [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate
