@@ -114,7 +114,7 @@
 - [samhocevar/wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
 - [coofcookie/Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 Upgrade tool that bypasses Microsoft´s requirements
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [avinassh/grpc-errors](https://github.com/avinassh/grpc-errors) - A handy guide to gRPC errors
 - [Lacro59/playnite-howlongtobeat-plugin](https://github.com/Lacro59/playnite-howlongtobeat-plugin) - This plugin shows HowLongToBeat data in Playnite.
@@ -1321,7 +1321,6 @@
 - [IDerr/dealabs-api](https://github.com/IDerr/dealabs-api) - Dealabs API
 - [Jimwoodward/tfe-scripts](https://github.com/Jimwoodward/tfe-scripts) - Python scripts for automating processes in Terraform Enterprise
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
-- [adeo/iwc-tfc-client](https://github.com/adeo/iwc-tfc-client) - Terraform Cloud Python Client
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
