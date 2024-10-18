@@ -1269,7 +1269,7 @@
 - [rcarmo/imapbackup](https://github.com/rcarmo/imapbackup) - A Python script for incremental backups of IMAP mailboxes
 - [regardscitoyens/twitter-parlementaires](https://github.com/regardscitoyens/twitter-parlementaires) - Annuaire des comptes Twitter des parlementaires
 - [yestinj/PutioCallbackCatcher](https://github.com/yestinj/PutioCallbackCatcher) - A 'download complete' callback catcher for put.io
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points.
