@@ -1217,7 +1217,6 @@
 
 ## go 
 
-- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
 - [omissis/go-jsonschema](https://github.com/omissis/go-jsonschema) - A tool to generate Go data types from JSON Schema definitions.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -2677,6 +2676,7 @@
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [geekgonecrazy/prismplus](https://github.com/geekgonecrazy/prismplus) - An RTMP multicast service.
 - [gofri/go-github-ratelimit](https://github.com/gofri/go-github-ratelimit) - A GoLang HTTP RoundTripper that handles GitHub API secondary rate limits
+- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [giantswarm/schemalint](https://github.com/giantswarm/schemalint) - A JSON schema linter built for some specific purposes at Giant Swarm
 - [Finding-mll/Parking_space_alert.py](https://github.com/Finding-mll/Parking_space_alert.py) - 
 - [osmandapp/OsmAnd-iOS](https://github.com/osmandapp/OsmAnd-iOS) - OsmAnd for iOS
