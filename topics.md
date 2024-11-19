@@ -3156,7 +3156,6 @@
 - [bitfield/uptimerobot](https://github.com/bitfield/uptimerobot) - Client library for UptimeRobot v2 API
 - [rancher/community-catalog](https://github.com/rancher/community-catalog) - Catalog entries contributed by the community
 - [iyzg/archived-dots](https://github.com/iyzg/archived-dots) - :large_blue_circle: The configs behind the eye candy
-- [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
 - [geek-at/http2pic](https://github.com/geek-at/http2pic) - Simple API for creating screenshots of websites
 - [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic) - 
 - [auth0/auth0-spring-security-api](https://github.com/auth0/auth0-spring-security-api) - Spring Security integration with Auth0 to secure your API with JWTs
@@ -4022,7 +4021,7 @@
 - [notr1ch/TwitchTest](https://github.com/notr1ch/TwitchTest) - Bandwidth tester for Twitch
 - [go-toast/toast](https://github.com/go-toast/toast) - A go package for Windows 10 toast notifications
 - [tc-hib/go-winres](https://github.com/tc-hib/go-winres) - Command line tool for adding Windows resources to executable files
-- [SegoCode/AutoWall](https://github.com/SegoCode/AutoWall) - 🌌 Live wallpapers on Windows 7/8/10/11 using open-source wallpaper engine
+- [SegoCode/AutoWall](https://github.com/SegoCode/AutoWall) - 🌌 Live wallpapers on Windows 7/8/10/11(23H2) using open-source wallpaper engine
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
