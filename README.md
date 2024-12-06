@@ -432,7 +432,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [Grafikart/grafisearch](https://github.com/Grafikart/grafisearch) - Un front pour faire mes recherches en local
 - [docker/go-units](https://github.com/docker/go-units) - Parse and print size and time units in human-readable format
-- [YaoApp/yao](https://github.com/YaoApp/yao) - Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, enterprise apps, and more, with AI as a seamless collaborator.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [rotemtam/protoc-gen-go-ascii](https://github.com/rotemtam/protoc-gen-go-ascii) - An example repo showing how to build a simple protoc plugin for generating go code
 - [ekhabarov/blog-code-snippets](https://github.com/ekhabarov/blog-code-snippets) - Code snippets for my blog https://ekhabarov.com
@@ -1569,7 +1569,7 @@
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [kentaro-m/auto-assign-action](https://github.com/kentaro-m/auto-assign-action) - An action which adds reviewers to the pull request when the pull request is opened.
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [pondorasti/emojis](https://github.com/pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
