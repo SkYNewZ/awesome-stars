@@ -897,7 +897,7 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [oknozor/blog](https://github.com/oknozor/blog) - 
 - [superlogout/superlogout.github.io](https://github.com/superlogout/superlogout.github.io) - Most likely the most secured page in the world
-- [creativetimofficial/david-ai](https://github.com/creativetimofficial/david-ai) - David UI is a free and open-source collection of customizable, production-ready UI components built with Tailwind CSS.
+- [creativetimofficial/david-ai](https://github.com/creativetimofficial/david-ai) - David AI is a free and open-source collection of customizable, production-ready UI components built with Tailwind CSS.
 - [healthchecks/dashboard](https://github.com/healthchecks/dashboard) - A standalone dashboard page showing the status of the checks in your Healthchecks.io account.
 - [paracycle/slackthemes](https://github.com/paracycle/slackthemes) - A Slack sidebar theme browser
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
