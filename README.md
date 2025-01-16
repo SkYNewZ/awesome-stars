@@ -235,6 +235,7 @@
 
 ## Go 
 
+- [masaushi/accessory](https://github.com/masaushi/accessory) - accessor methods generator for Go programming language
 - [raphoester/space-trouble-api](https://github.com/raphoester/space-trouble-api) - A simple CQRS backend boilerplate using gRPC, Docker and Postgres
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [DVDAndroid/glance-docker-container-ext](https://github.com/DVDAndroid/glance-docker-container-ext) - 
@@ -1257,6 +1258,7 @@
 
 ## Python 
 
+- [obynio/certbot-plugin-gandi](https://github.com/obynio/certbot-plugin-gandi) - Certbot plugin for authentication using Gandi LiveDNS
 - [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
 - [PHD59fr/awtrix3](https://github.com/PHD59fr/awtrix3) - Python scripts for controlling the displays of Awtrix 3. These scripts offer features such as real-time command execution and visual effects management. They are designed for easy interaction with an 
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
@@ -1677,6 +1679,7 @@
 
 ## Vue 
 
+- [bokub/conso-api](https://github.com/bokub/conso-api) - ⚡ API for Linky smart meters
 - [ekvedaras/redis-gui](https://github.com/ekvedaras/redis-gui) - 🔬 Modern graphical user interface to peek into redis database
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
