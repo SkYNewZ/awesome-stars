@@ -238,7 +238,6 @@
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
-- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [creativetimofficial/david-ai](https://github.com/creativetimofficial/david-ai) - David AI is a free and open-source collection of customizable, production-ready UI components built with Tailwind CSS.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -287,6 +286,7 @@
 
 ## api 
 
+- [bokub/conso-api](https://github.com/bokub/conso-api) - ⚡ API for Linky smart meters
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -809,6 +809,7 @@
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 ## dependency-management 
 
@@ -820,7 +821,7 @@
 
 ## design 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 
 ## devops 
 
@@ -868,6 +869,7 @@
 
 ## docker 
 
+- [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -2677,6 +2679,8 @@
 
 ## others 
 
+- [obynio/certbot-plugin-gandi](https://github.com/obynio/certbot-plugin-gandi) - Certbot plugin for authentication using Gandi LiveDNS
+- [masaushi/accessory](https://github.com/masaushi/accessory) - accessor methods generator for Go programming language
 - [jbromain/rte-tempo](https://github.com/jbromain/rte-tempo) - API d'accès aux données tarifaires Tempo EDF
 - [raphoester/space-trouble-api](https://github.com/raphoester/space-trouble-api) - A simple CQRS backend boilerplate using gRPC, Docker and Postgres
 - [DVDAndroid/glance-docker-container-ext](https://github.com/DVDAndroid/glance-docker-container-ext) - 
@@ -3419,7 +3423,7 @@
 - [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit) - Batteries-included backend that works with any stack.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [bchiang7/spotify-profile](https://github.com/bchiang7/spotify-profile) - A web app for visualizing personalized Spotify data built with React, Express, and the Spotify API
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [kubernetes-up-and-running/kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo app for Kubernetes Up and Running book
@@ -3657,7 +3661,7 @@
 
 ## sketch 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 
 ## software 
 
