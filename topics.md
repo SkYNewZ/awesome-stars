@@ -234,6 +234,7 @@
 
 ## ai 
 
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -985,6 +986,8 @@
 
 ## electron 
 
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [marcincichocki/breach-protocol-autosolver](https://github.com/marcincichocki/breach-protocol-autosolver) - Solve breach protocol minigame in second(s). Windows/Linux/GeForce Now/Google Stadia. Every language.
 - [ekvedaras/redis-gui](https://github.com/ekvedaras/redis-gui) - 🔬 Modern graphical user interface to peek into redis database
@@ -1226,6 +1229,8 @@
 
 ## go 
 
+- [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
+- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
 - [omissis/go-jsonschema](https://github.com/omissis/go-jsonschema) - A tool to generate Go data types from JSON Schema definitions.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -1481,6 +1486,7 @@
 
 ## golang 
 
+- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
 - [omissis/go-jsonschema](https://github.com/omissis/go-jsonschema) - A tool to generate Go data types from JSON Schema definitions.
@@ -1815,6 +1821,7 @@
 
 ## hacktoberfest 
 
+- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
@@ -2011,6 +2018,7 @@
 
 ## http 
 
+- [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
 - [amalfra/etag](https://github.com/amalfra/etag) - A go package to create HTTP ETags
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
@@ -2607,6 +2615,7 @@
 
 ## nodejs 
 
+- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [alseambusher/crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [netgusto/nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
@@ -3411,6 +3420,7 @@
 
 ## react 
 
+- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
@@ -3502,6 +3512,7 @@
 
 ## rust 
 
+- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [davidchalifoux/kaput-cli](https://github.com/davidchalifoux/kaput-cli) - The unofficial CLI client for Put.io - Kaput lets you manage your Put.io account from the comfort of your terminal!
@@ -3907,6 +3918,7 @@
 
 ## typescript 
 
+- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
@@ -3955,6 +3967,7 @@
 
 ## vpn 
 
+- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 - [ezaquarii/vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole
