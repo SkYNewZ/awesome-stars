@@ -787,7 +787,7 @@
 
 ## database 
 
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [vaphes/pocketbase](https://github.com/vaphes/pocketbase) - PocketBase client SDK for python
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database
@@ -1626,7 +1626,7 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [vmware-archive/kubewatch](https://github.com/vmware-archive/kubewatch) - Watch k8s events and trigger Handlers
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 17, 2025. See you in the new year!
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - The source for the CLI and web app at gcping.com
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -2082,6 +2082,7 @@
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
+- [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
@@ -2512,7 +2513,7 @@
 
 ## mastodon 
 
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 17, 2025. See you in the new year!
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [renatolond/mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - Crossposter to post statuses between Mastodon and Twitter
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
@@ -2688,6 +2689,7 @@
 
 ## others 
 
+- [timi2506/iphone-mirroring-eu-activate](https://github.com/timi2506/iphone-mirroring-eu-activate) - 
 - [obynio/certbot-plugin-gandi](https://github.com/obynio/certbot-plugin-gandi) - Certbot plugin for authentication using Gandi LiveDNS
 - [masaushi/accessory](https://github.com/masaushi/accessory) - accessor methods generator for Go programming language
 - [jbromain/rte-tempo](https://github.com/jbromain/rte-tempo) - API d'accès aux données tarifaires Tempo EDF
@@ -3513,7 +3515,7 @@
 ## rust 
 
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [davidchalifoux/kaput-cli](https://github.com/davidchalifoux/kaput-cli) - The unofficial CLI client for Put.io - Kaput lets you manage your Put.io account from the comfort of your terminal!
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
