@@ -3051,7 +3051,7 @@
 - [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) - 
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [breadlysm/SpeedFlux](https://github.com/breadlysm/SpeedFlux) - Script to periodically run the Speedtest CLI application by Ookla and post results to InfluxDB.
-- [cdwv/bitwarden-k8s](https://github.com/cdwv/bitwarden-k8s) - Helm chart for deploying bitwarden-rs in Kubernetes
+- [cdwv/bitwarden-k8s](https://github.com/cdwv/bitwarden-k8s) - Helm chart for deploying vaultwarden in Kubernetes
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [MichaelMure/go-term-markdown](https://github.com/MichaelMure/go-term-markdown) - A markdown renderer package for the terminal
 - [MichaelMure/mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
