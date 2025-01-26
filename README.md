@@ -1122,7 +1122,7 @@
 
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [Skeen/helm-bitwarden_rs](https://github.com/Skeen/helm-bitwarden_rs) - Helm chart for the bitwarden_rs project.
-- [cdwv/bitwarden-k8s](https://github.com/cdwv/bitwarden-k8s) - Helm chart for deploying bitwarden-rs in Kubernetes
+- [cdwv/bitwarden-k8s](https://github.com/cdwv/bitwarden-k8s) - Helm chart for deploying vaultwarden in Kubernetes
 
 ## Objective-C 
 
