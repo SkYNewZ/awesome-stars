@@ -1055,7 +1055,7 @@
 - [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
@@ -1606,7 +1606,7 @@
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
-- [phntxx/dashboard](https://github.com/phntxx/dashboard) - :bar_chart: a nice and simple dashboard / landing page.
+- [phntxx/dashboard](https://github.com/phntxx/dashboard) - :bar_chart: a nice and simple dashboard / landing page. (deprecated)
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
