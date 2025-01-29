@@ -455,7 +455,7 @@
 - [arturodz/protobuf-rabbitmq](https://github.com/arturodz/protobuf-rabbitmq) - Sample Code for Protocol Buffers & RabbitMQ in Golang
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
-- [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go, originally by @nlopes; Maintainers needed, contact @parsley42
+- [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
@@ -949,7 +949,7 @@
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [apvarun/toastify-js](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
