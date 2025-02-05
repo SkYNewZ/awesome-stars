@@ -94,7 +94,7 @@
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [umlaeute/v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
+- [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [apple/HomeKitADK](https://github.com/apple/HomeKitADK) - 
 - [krakjoe/pthreads](https://github.com/krakjoe/pthreads) - Threading for PHP - Share Nothing, Do Everything :)
