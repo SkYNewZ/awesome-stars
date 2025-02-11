@@ -3054,7 +3054,7 @@
 - [muesli/muesli](https://github.com/muesli/muesli) - My secret muesli repo
 - [rfletcher/safari-json-formatter](https://github.com/rfletcher/safari-json-formatter) - A Safari extension which makes valid JSON documents human-readable.
 - [janeczku/go-dnsmasq](https://github.com/janeczku/go-dnsmasq) - :dolphin: Lightweight caching DNS server/forwarder
-- [umlaeute/v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
+- [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device
 - [caddyserver/vscode-caddyfile](https://github.com/caddyserver/vscode-caddyfile) - Rich Caddyfile support for Visual Studio Code
 - [go-gandi/terraform-provider-gandi](https://github.com/go-gandi/terraform-provider-gandi) - Terraform provider for the Gandi Domain services
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
