@@ -898,7 +898,6 @@
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [jareware/chilipie-kiosk](https://github.com/jareware/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
 - [mshibanami/GitHubTrendingRSS](https://github.com/mshibanami/GitHubTrendingRSS) - Unofficial RSS feed generator for GitHub Trending
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [oknozor/blog](https://github.com/oknozor/blog) - 
 - [superlogout/superlogout.github.io](https://github.com/superlogout/superlogout.github.io) - Most likely the most secured page in the world
 - [creativetimofficial/david-ai](https://github.com/creativetimofficial/david-ai) - David AI is a free and open-source collection of customizable, production-ready UI components built with Tailwind CSS.
@@ -1106,6 +1105,7 @@
 ## MDX 
 
 - [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## Makefile 
 
