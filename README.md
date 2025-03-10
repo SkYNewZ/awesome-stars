@@ -246,7 +246,7 @@
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [geekgonecrazy/prismplus](https://github.com/geekgonecrazy/prismplus) - An RTMP multicast service.
-- [gofri/go-github-ratelimit](https://github.com/gofri/go-github-ratelimit) - A GoLang HTTP RoundTripper that handles GitHub API secondary rate limits
+- [gofri/go-github-ratelimit](https://github.com/gofri/go-github-ratelimit) - A GoLang middleware that handles GitHub API rate limits - primary rate limit & secondary rate limit
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
 - [brunoluiz/urlzap](https://github.com/brunoluiz/urlzap) - ⚡️ Your own static URL shortener
