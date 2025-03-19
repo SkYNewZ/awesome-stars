@@ -893,7 +893,6 @@
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [vabs/youtube-channel-name-converter](https://github.com/vabs/youtube-channel-name-converter) - Convert Youtube Channel Name To Channel ID
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [jareware/chilipie-kiosk](https://github.com/jareware/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
@@ -959,6 +958,7 @@
 - [djm/magno](https://github.com/djm/magno) - Magnet links search interface 🧲
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [LucyBot-Inc/api-spec-converter](https://github.com/LucyBot-Inc/api-spec-converter) - Convert API descriptions between popular formats such as OpenAPI(fka Swagger), RAML, API Blueprint, WADL, etc.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [samsarahq/thunder](https://github.com/samsarahq/thunder) - ⚡️ A Go framework for rapidly building powerful graphql services
 - [Zhwt/yaml-to-go](https://github.com/Zhwt/yaml-to-go) - Translates YAML into a Go type in your browser instantly.
