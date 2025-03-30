@@ -108,7 +108,6 @@
 - [cDima/Aerial](https://github.com/cDima/Aerial) - Aerial Apple TV screen saver for Windows
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
-- [BarRaider/streamdeck-voicemeeter](https://github.com/BarRaider/streamdeck-voicemeeter) - VoiceMeeter integration for Stream Deck
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [samhocevar/wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
 - [coofcookie/Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 Upgrade tool that bypasses Microsoft´s requirements
@@ -122,8 +121,6 @@
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [HandyOrg/HandyWinGet](https://github.com/HandyOrg/HandyWinGet) - GUI for installing apps through WinGet and Creating Yaml file
 - [HaveIBeenPwned/PwnedPasswordsAzureFunction](https://github.com/HaveIBeenPwned/PwnedPasswordsAzureFunction) - APIs for the k-anonymity Pwned Passwords implementation
-- [BarRaider/streamdeck-advancedlauncher](https://github.com/BarRaider/streamdeck-advancedlauncher) - Smart application launcher for the Elgato Stream Deck
-- [BarRaider/streamdeck-obstools](https://github.com/BarRaider/streamdeck-obstools) - Advanced OBS commands and tools to use on your Elgato Stream Deck
 - [robvdpol/RaceControl](https://github.com/robvdpol/RaceControl) - Race Control is a standalone, open source F1TV client for Windows, written in C# on the .NET platform.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [WOA-Project/WoA-Installer-Rpi](https://github.com/WOA-Project/WoA-Installer-Rpi) - This repository was deprecated, use:
@@ -174,7 +171,6 @@
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) - WakaTime-Plugin for the Elgato Streamdeck
 - [christianselig/OpenInApolloExtension](https://github.com/christianselig/OpenInApolloExtension) - Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo
-- [BarRaider/streamdeck-easypi](https://github.com/BarRaider/streamdeck-easypi) - Javascript library to simplify the communication between the Stream Deck's Property Inspector and the plugin
 - [shayne/hwinfo-streamdeck](https://github.com/shayne/hwinfo-streamdeck) - Monitor sensor readings with this HWiNFO64 Stream Deck Plugin
 - [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) - 👀 Check the status of your CI/CD environments using your Stream Deck.
 - [nicollasricas/decks-vscode](https://github.com/nicollasricas/decks-vscode) - Enables Stream Deck integration with Visual Studio Code.
