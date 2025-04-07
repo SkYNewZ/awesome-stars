@@ -1007,7 +1007,7 @@
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [strapi-community/awesome-strapi](https://github.com/strapi-community/awesome-strapi) - A curated list of awesome things related to Strapi
 - [thurasw/airwave](https://github.com/thurasw/airwave) - Share Files between iOS and Windows without hassle.
-- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺
 - [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. :poop:
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 - [getconversio/email-deep-validator](https://github.com/getconversio/email-deep-validator) - Verify email address checking MX records, and SMTP connection.
