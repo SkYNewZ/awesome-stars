@@ -145,7 +145,7 @@
 - [mrmoss/wofgen](https://github.com/mrmoss/wofgen) - Universal firewall configuration generator.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
-- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [torrent-file-editor/torrent-file-editor](https://github.com/torrent-file-editor/torrent-file-editor) - Qt based GUI tool designed to create and edit .torrent files
 - [univrsal/tuna](https://github.com/univrsal/tuna) - Song information plugin for obs-studio
 - [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
@@ -900,7 +900,7 @@
 - [healthchecks/dashboard](https://github.com/healthchecks/dashboard) - A standalone dashboard page showing the status of the checks in your Healthchecks.io account.
 - [paracycle/slackthemes](https://github.com/paracycle/slackthemes) - A Slack sidebar theme browser
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [ys/forked](https://github.com/ys/forked) - Find maintained forks of your favorite repositories
@@ -1173,7 +1173,7 @@
 - [muesli/deckmaster-emojis](https://github.com/muesli/deckmaster-emojis) - A deck of emojis for Deckmaster
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [hscgavin/autopep8-on-pycharm](https://github.com/hscgavin/autopep8-on-pycharm) - Set up autopep8 on Pycharm, it neatens up Python code to match PEP 8.
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 💀 Homebrew Bundle (deprecated)
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 💀 Homebrew/bundle (merged into Homebrew/brew)
 - [clapfoot/warapi](https://github.com/clapfoot/warapi) - The War API allows developers to query information about the state of the current Foxhole war.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [priximmo/sommaire-xavki-devops-fr](https://github.com/priximmo/sommaire-xavki-devops-fr) - 
