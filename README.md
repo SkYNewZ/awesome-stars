@@ -1599,10 +1599,10 @@
 - [codecentric/gopass-ui](https://github.com/codecentric/gopass-ui) - gopass CLI + UI = visual cross-platform password manager for teams
 - [hibiken/asynqmon](https://github.com/hibiken/asynqmon) - Web UI for Asynq task queue
 - [PreMiD/PreMiD](https://github.com/PreMiD/PreMiD) - 🧬 Source code of the PreMiD application.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
-- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Stream Deck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playb
+- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the Elgato Stream Deck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and b
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
