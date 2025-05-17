@@ -308,7 +308,7 @@
 - [muesli/ydl](https://github.com/muesli/ydl) - A simple youtube-dl library for Go
 - [muesli/go-app-paths](https://github.com/muesli/go-app-paths) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs)
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4o, gpt-4-turbo, gpt-3.5-turbo model) and automatically installs a git prepare-comm
+- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup & encrypt secrets from a HashiCorp Vault KV engine
 - [motemen/go-loghttp](https://github.com/motemen/go-loghttp) - Go library to log http.Client's requests and responses automatically
@@ -566,7 +566,7 @@
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [spotahome/kooper](https://github.com/spotahome/kooper) - Kooper is a simple Go library to create Kubernetes operators and controllers.
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
 - [rakyll/go-test-trace](https://github.com/rakyll/go-test-trace) - Go test with tracing.
 - [grpc-ecosystem/grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe) - A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
@@ -1216,6 +1216,7 @@
 
 ## PHP 
 
+- [magweter/spacepad](https://github.com/magweter/spacepad) - A simple and fun meeting room occupancy display. Self hosted or cloud hosted.
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [jbromain/rte-tempo](https://github.com/jbromain/rte-tempo) - API d'accès aux données tarifaires Tempo EDF
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
@@ -1248,7 +1249,7 @@
 
 ## PowerShell 
 
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [tibold/svg-explorer-extension](https://github.com/tibold/svg-explorer-extension) - Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files
 
 ## Pug 
