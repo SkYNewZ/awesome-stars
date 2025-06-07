@@ -8,7 +8,6 @@
 - [AppleScript](#applescript)
 - [Assembly](#assembly)
 - [AutoIt](#autoit)
-- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -71,10 +70,6 @@
 
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 - [SegoCode/AutoWall](https://github.com/SegoCode/AutoWall) - 🌌 Live wallpapers on Windows 7/8/10/11 using open-source wallpaper engine
-
-## Batchfile 
-
-- [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 
 ## C 
 
@@ -1252,6 +1247,7 @@
 ## PowerShell 
 
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+- [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [tibold/svg-explorer-extension](https://github.com/tibold/svg-explorer-extension) - Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files
 
 ## Pug 
@@ -1268,7 +1264,7 @@
 - [dvcoolarun/web2pdf](https://github.com/dvcoolarun/web2pdf) - 🔄 CLI to convert Webpages to PDFs 🚀
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [vaphes/pocketbase](https://github.com/vaphes/pocketbase) - PocketBase client SDK for python
-- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [fmwviormv/CyberpunkPythonHacks](https://github.com/fmwviormv/CyberpunkPythonHacks) - Python scripts for manipulating Cyberpunk 2077 save files
