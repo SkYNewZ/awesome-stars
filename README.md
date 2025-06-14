@@ -796,7 +796,7 @@
 - [zenizh/go-capturer](https://github.com/zenizh/go-capturer) - Capture stdout and/or stderr in Go.
 - [mitchellh/go-homedir](https://github.com/mitchellh/go-homedir) - Go library for detecting and expanding the user's home directory without cgo.
 - [vwxyzjn/portwarden](https://github.com/vwxyzjn/portwarden) - Create Encrypted Backups of Your Bitwarden Vault with Attachments
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -1160,7 +1160,6 @@
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [bufbuild/buf-tour](https://github.com/bufbuild/buf-tour) - 
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
-- [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 💀 Casks of Ｆ🅾𝓝𝐓𝚂 (deprecated)
 - [DAR-TV/MFS2020_Streamdeck](https://github.com/DAR-TV/MFS2020_Streamdeck) - Documents to share with you guys
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
