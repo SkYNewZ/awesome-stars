@@ -1211,7 +1211,7 @@
 
 ## PHP 
 
-- [magweter/spacepad](https://github.com/magweter/spacepad) - Spacepad is a beautifully simple room display app. Suitable for both small offices and larger deployments.
+- [magweter/spacepad](https://github.com/magweter/spacepad) - Spacepad is a simple privacy-focused room display app. Suitable for both small offices and larger deployments.
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [jbromain/rte-tempo](https://github.com/jbromain/rte-tempo) - API d'accès aux données tarifaires Tempo EDF
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
