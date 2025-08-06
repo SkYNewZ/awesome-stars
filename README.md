@@ -467,7 +467,7 @@
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [cugu/gocap](https://github.com/cugu/gocap) - List your dependencies capabilities and monitor if updates require more  capabilities.
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
-- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
+- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go
 - [golang/protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
 - [golang/mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [ez4o/go-try](https://github.com/ez4o/go-try) - A package that allows you to use try/catch block in Go.
