@@ -1502,7 +1502,7 @@
 - [nullbleed/fancy-motd](https://github.com/nullbleed/fancy-motd) - 
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [nordtheme/gnome-terminal](https://github.com/nordtheme/gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
+- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/configs/..
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
