@@ -37,6 +37,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
@@ -250,6 +251,7 @@
 - [wordpress](#wordpress)
 - [xcode](#xcode)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -611,7 +613,7 @@
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.
 - [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
@@ -694,6 +696,29 @@
 ## clojure 
 
 - [netgusto/nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
+
+## cloud 
+
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
+- [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
+- [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
+- [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
+- [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
+- [hashicorp/go-tfe](https://github.com/hashicorp/go-tfe) - HCP Terraform/Enterprise API Client/SDK in Golang
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+- [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 
 ## cms 
 
@@ -1231,7 +1256,7 @@
 
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 
 ## git 
@@ -1284,7 +1309,7 @@
 - [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest "nightly" build/artifact from a continuous testing workflow
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.
 - [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [shoenig/ssh-key-sync](https://github.com/shoenig/ssh-key-sync) - A tool for synchronizing your GitHub SSH keys onto servers authorized_keys files
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
 - [Nightonke/Gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github
@@ -1385,7 +1410,7 @@
 - [samsarahq/thunder](https://github.com/samsarahq/thunder) - ⚡️ A Go framework for rapidly building powerful graphql services
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 - [peterhellberg/duration](https://github.com/peterhellberg/duration) - Parse a RFC 3339 duration string into time.Duration
 - [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) - Translate your Go program into multiple languages.
@@ -1647,7 +1672,7 @@
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.
 - [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 - [awalterschulze/goderive](https://github.com/awalterschulze/goderive) - Derives and generates mundane golang functions that you do not want to maintain yourself
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
@@ -2847,7 +2872,6 @@
 - [kentaro-m/auto-assign-action](https://github.com/kentaro-m/auto-assign-action) - An action which adds reviewers to the pull request when the pull request is opened.
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
 - [anon-org/golang-dependency-injection-using-wire](https://github.com/anon-org/golang-dependency-injection-using-wire) - Golang Dependency Injection Using Wire Repository
-- [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [adityak74/google-drive-upload-git-action](https://github.com/adityak74/google-drive-upload-git-action) - Github action that uploads files to Google Drive
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [jamsyoung/iterm2-random-background](https://github.com/jamsyoung/iterm2-random-background) - Randomly sets an image as the background in iTerm2
@@ -3000,7 +3024,6 @@
 - [2d-inc/HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) - Flutter Launch Timeline Demo
 - [coofcookie/Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 Upgrade tool that bypasses Microsoft´s requirements
 - [gen2brain/dlgs](https://github.com/gen2brain/dlgs) - Go cross-platform library for displaying dialogs and input boxes
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [kubernetes/sample-cli-plugin](https://github.com/kubernetes/sample-cli-plugin) - Sample kubectl plugin
 - [jay2503/PNG-Compression](https://github.com/jay2503/PNG-Compression) - Compress PNG file upto 80% without losing it's quality
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
@@ -3015,7 +3038,6 @@
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [GoogleCloudPlatform/kubernetes-engine-samples](https://github.com/GoogleCloudPlatform/kubernetes-engine-samples) - Sample applications for Google Kubernetes Engine (GKE)
-- [mroth/evalcache](https://github.com/mroth/evalcache) - :hatching_chick: zsh plugin to cache eval loads to improve shell startup time
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [openairplay/airplay2-receiver](https://github.com/openairplay/airplay2-receiver) - AirPlay 2 Receiver - Python implementation
 - [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
@@ -3175,7 +3197,6 @@
 - [zitryss/go-sample](https://github.com/zitryss/go-sample) - Go Project Sample Layout
 - [deep-gaurav/MusicPiped](https://github.com/deep-gaurav/MusicPiped) - A Materialistic Music player that streams music
 - [mherrmann/fbs-tutorial](https://github.com/mherrmann/fbs-tutorial) - Tutorial for creating Python/Qt GUIs with fbs
-- [hashicorp/go-tfe](https://github.com/hashicorp/go-tfe) - HCP Terraform/Enterprise API Client/SDK in Golang
 - [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) - go client library for PagerDuty v2 API
 - [stevestreza/awesome-ios-widgets](https://github.com/stevestreza/awesome-ios-widgets) - A curated list of home screen widgets for apps on iOS 14+
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
@@ -3952,7 +3973,7 @@
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -4270,6 +4291,29 @@
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
+
+## zsh 
+
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
+- [GetStream/vg](https://github.com/GetStream/vg) - Virtualgo: Easy and powerful workspace based development for go
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [mroth/evalcache](https://github.com/mroth/evalcache) - :hatching_chick: zsh plugin to cache eval loads to improve shell startup time
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
+- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, 
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [nordtheme/gnome-terminal](https://github.com/nordtheme/gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+- [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+- [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 
 
 ## License
