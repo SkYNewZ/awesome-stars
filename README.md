@@ -231,6 +231,7 @@
 
 ## Go 
 
+- [kilianpaquier/go-builder-generator](https://github.com/kilianpaquier/go-builder-generator) - Easily generate builders for golang structs
 - [nalgeon/chans](https://github.com/nalgeon/chans) - Building blocks for idiomatic Go pipelines
 - [justinas/alice](https://github.com/justinas/alice) - Painless middleware chaining for Go
 - [justinas/nosurf](https://github.com/justinas/nosurf) - CSRF protection middleware for Go.
