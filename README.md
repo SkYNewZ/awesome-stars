@@ -231,6 +231,7 @@
 
 ## Go 
 
+- [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [kilianpaquier/go-builder-generator](https://github.com/kilianpaquier/go-builder-generator) - Easily generate builders for golang structs
 - [nalgeon/chans](https://github.com/nalgeon/chans) - Building blocks for idiomatic Go pipelines
