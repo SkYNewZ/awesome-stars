@@ -1145,6 +1145,7 @@
 
 ## Others 
 
+- [nevermore3d/Nevermore_Micro](https://github.com/nevermore3d/Nevermore_Micro) - Activated Carbon Filters. Bad smells or fumes, or complaints thereof, should not keep you from being a maker!
 - [johnkeel-thork/DMD2](https://github.com/johnkeel-thork/DMD2) - Drive Mode Dashboard 2 - Public Files
 - [ruimarinho/little-snitch-rules](https://github.com/ruimarinho/little-snitch-rules) - Rule groups for easy subscriptions for Little Snitch 4.1+
 - [AVerMedia-Technologies-Inc/CreatorCentralSDK](https://github.com/AVerMedia-Technologies-Inc/CreatorCentralSDK) - AVerMedia Creator Central SDK
