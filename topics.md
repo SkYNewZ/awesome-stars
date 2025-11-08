@@ -768,6 +768,7 @@
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [corneliusweig/konfig](https://github.com/corneliusweig/konfig) - konfig helps to merge, split or import kubeconfig files
+- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 
 ## continuous-integration 
 
@@ -2843,6 +2844,8 @@
 
 ## others 
 
+- [nevermore3d/Nevermore_Micro](https://github.com/nevermore3d/Nevermore_Micro) - Activated Carbon Filters. Bad smells or fumes, or complaints thereof, should not keep you from being a maker!
+- [YourFriendlyNeighbour666/W3DPCalc](https://github.com/YourFriendlyNeighbour666/W3DPCalc) - Wild 3D Print Offline calculator. Basic calc that lets you estimate weight and costs of your 3D prints.Create profiles for printers/filaments/parts. Simplified to the bone raw Python. Version 0.2 allo
 - [crysxd/OctoApp-Plugin](https://github.com/crysxd/OctoApp-Plugin) - Companion plugin for OctoApp
 - [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack) - 
 - [cronitorio/cronitor-cli](https://github.com/cronitorio/cronitor-cli) - Command line tools for Cronitor.io
@@ -3579,6 +3582,7 @@
 
 ## raspberry-pi 
 
+- [dzomaya/NUTandRpi](https://github.com/dzomaya/NUTandRpi) - A repo for Network UPS Tools and Eaton Tripp Lite UPS demo scripts
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [jareware/chilipie-kiosk](https://github.com/jareware/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
