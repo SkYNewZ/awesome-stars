@@ -1582,7 +1582,7 @@
 ## TypeScript 
 
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
-- [derjayjay/homebridge-keylights](https://github.com/derjayjay/homebridge-keylights) - Yet another Homebridge plugin for Elgato Key Light and Key Light Air. https://homebridge.io
+- [jnmau/homebridge-keylights](https://github.com/jnmau/homebridge-keylights) - Yet another Homebridge plugin for Elgato Key Light and Key Light Air. https://homebridge.io
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
