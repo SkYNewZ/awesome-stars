@@ -2842,6 +2842,7 @@
 
 ## others 
 
+- [georgslazdans/outline-app](https://github.com/georgslazdans/outline-app) - Outline recognition app
 - [nevermore3d/Nevermore_Micro](https://github.com/nevermore3d/Nevermore_Micro) - Activated Carbon Filters. Bad smells or fumes, or complaints thereof, should not keep you from being a maker!
 - [YourFriendlyNeighbour666/W3DPCalc](https://github.com/YourFriendlyNeighbour666/W3DPCalc) - Wild 3D Print Offline calculator. Basic calc that lets you estimate weight and costs of your 3D prints.Create profiles for printers/filaments/parts. Simplified to the bone raw Python. Version 0.2 allo
 - [crysxd/OctoApp-Plugin](https://github.com/crysxd/OctoApp-Plugin) - Companion plugin for OctoApp
