@@ -1266,6 +1266,7 @@
 
 ## Python 
 
+- [joeatbayes/stl-file-splitter](https://github.com/joeatbayes/stl-file-splitter) - Splits a STL file into equal sized pieces for printing.  Faster and easier than splitting in slicers
 - [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags
 - [queengooborg/Bambu-Lab-RFID-Library](https://github.com/queengooborg/Bambu-Lab-RFID-Library) - A collection of Bambu Lab filament RFID tag scans for research
 - [YourFriendlyNeighbour666/W3DPCalc](https://github.com/YourFriendlyNeighbour666/W3DPCalc) - Wild 3D Print Offline calculator. Basic calc that lets you estimate weight and costs of your 3D prints.Create profiles for printers/filaments/parts. Simplified to the bone raw Python. Version 0.2 allo
