@@ -111,6 +111,7 @@
 - [google](#google)
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
@@ -1947,6 +1948,19 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
+## gui 
+
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
+- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
+- [ekvedaras/redis-gui](https://github.com/ekvedaras/redis-gui) - 🔬 Modern graphical user interface to peek into redis database
+- [HandyOrg/HandyWinGet](https://github.com/HandyOrg/HandyWinGet) - GUI for installing apps through WinGet and Creating Yaml file
+- [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It) - A macOS GUI for youtube-dl
+- [xeoncross/macappshell](https://github.com/xeoncross/macappshell) - Creates a Mac OSX .app folder (complete with icons) ready for your binary file. Perfect for Golang, Rust, C++, etc..
+- [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
+- [WOA-Project/WoA-Installer-Rpi](https://github.com/WOA-Project/WoA-Installer-Rpi) - This repository was deprecated, use:
+- [transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui) - 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
+
 ## hacking 
 
 - [liamg/gitjacker](https://github.com/liamg/gitjacker) - 🔪 :octocat: Leak git repositories from misconfigured websites
@@ -3125,7 +3139,6 @@
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go) - ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
-- [HandyOrg/HandyWinGet](https://github.com/HandyOrg/HandyWinGet) - GUI for installing apps through WinGet and Creating Yaml file
 - [HaveIBeenPwned/PwnedPasswordsAzureFunction](https://github.com/HaveIBeenPwned/PwnedPasswordsAzureFunction) - APIs for the k-anonymity Pwned Passwords implementation
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [byxorna/reggi](https://github.com/byxorna/reggi) - Golang Regexp Live Tester
