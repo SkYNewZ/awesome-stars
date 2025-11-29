@@ -1673,7 +1673,7 @@
 - [kilianpaquier/go-builder-generator](https://github.com/kilianpaquier/go-builder-generator) - Easily generate builders for golang structs
 - [nalgeon/chans](https://github.com/nalgeon/chans) - Building blocks for idiomatic Go pipelines
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [gofri/go-github-ratelimit](https://github.com/gofri/go-github-ratelimit) - A GoLang middleware that handles GitHub API rate limits - primary rate limit & secondary rate limit
 - [changkun/redir](https://github.com/changkun/redir) - 🧭  Full-featured, self-hosted URL shortener.
 - [omissis/go-jsonschema](https://github.com/omissis/go-jsonschema) - A tool to generate Go data types from JSON Schema definitions.
@@ -2402,7 +2402,7 @@
 ## kubernetes 
 
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
-- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [norbjd/kueueleuleu](https://github.com/norbjd/kueueleuleu) - Run containers sequentially inside Kubernetes Pods/Jobs/CronJobs.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
@@ -3786,7 +3786,7 @@
 ## security 
 
 - [justinas/nosurf](https://github.com/justinas/nosurf) - CSRF protection middleware for Go.
-- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [codecentric/gopass-ui](https://github.com/codecentric/gopass-ui) - gopass CLI + UI = visual cross-platform password manager for teams
