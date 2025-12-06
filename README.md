@@ -238,6 +238,7 @@
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [kilianpaquier/go-builder-generator](https://github.com/kilianpaquier/go-builder-generator) - Easily generate builders for golang structs
 - [nalgeon/chans](https://github.com/nalgeon/chans) - Building blocks for idiomatic Go pipelines
+- [cronitorio/cronitor-cli](https://github.com/cronitorio/cronitor-cli) - Command line tools for Cronitor.io
 - [justinas/alice](https://github.com/justinas/alice) - Painless middleware chaining for Go
 - [justinas/nosurf](https://github.com/justinas/nosurf) - CSRF protection middleware for Go.
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
@@ -947,7 +948,6 @@
 
 ## JavaScript 
 
-- [cronitorio/cronitor-cli](https://github.com/cronitorio/cronitor-cli) - Command line tools for Cronitor.io
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
