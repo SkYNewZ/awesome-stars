@@ -357,7 +357,7 @@
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
 - [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 - [jinzhu/now](https://github.com/jinzhu/now) - Now is a time toolkit for golang
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
@@ -742,7 +742,7 @@
 - [benbjohnson/clock](https://github.com/benbjohnson/clock) - Clock is a small library for mocking time in Go.
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
 - [keepeye/logrus-filename](https://github.com/keepeye/logrus-filename) - Logrus hook for logging filename and line number
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
 - [bxcodec/faker](https://github.com/bxcodec/faker) - Go (Golang)  Fake Data  Generator for Struct. [Notes]This repository is archived, moved to the new repository https://github.com/go-faker/faker
 - [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter
 - [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform Hetzner Cloud provider
