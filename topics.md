@@ -4110,6 +4110,7 @@
 - [cycloidio/inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 - [KubeHelper/kubehelper](https://github.com/KubeHelper/kubehelper) - KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface. Search, analysis, run commands, cron jobs, reports, filters, git synchronization and many more.
 - [nlamirault/speedtest_exporter](https://github.com/nlamirault/speedtest_exporter) - Prometheus exporter for Speedtest metrics
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [ahmetb/cloud-run-iap-terraform-demo](https://github.com/ahmetb/cloud-run-iap-terraform-demo) - Deploy an IAP-secured application to Cloud Run using Terraform (e.g. an admin portal or internal company app)
 - [hashicorp/terraform-provider-scaffolding](https://github.com/hashicorp/terraform-provider-scaffolding) - Quick start repository for creating a Terraform provider
