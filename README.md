@@ -1494,7 +1494,7 @@
 - [vdeville/ssh-login-alert-telegram](https://github.com/vdeville/ssh-login-alert-telegram) - Recieive telegram notfications when user connect to a server
 - [larsxschneider/git-repo-analysis](https://github.com/larsxschneider/git-repo-analysis) - Scripts to analyse large Git repositories.
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
-- [RIKRUS/MOTD](https://github.com/RIKRUS/MOTD) - Fancy wiev for MOTD
+- [beaconborn/MOTD](https://github.com/beaconborn/MOTD) - Fancy wiev for MOTD
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
