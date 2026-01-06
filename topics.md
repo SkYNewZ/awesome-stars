@@ -3070,7 +3070,7 @@
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
-- [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
+- [ariga/atlas](https://github.com/ariga/atlas) - Declarative schema migrations with schema-as-code workflows
 - [carvalhorr/protoc-gen-mock](https://github.com/carvalhorr/protoc-gen-mock) - 
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [francoismari/elyze](https://github.com/francoismari/elyze) - 
