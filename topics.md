@@ -3976,7 +3976,7 @@
 
 ## sublime-text 
 
-- [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
+- [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern, bright color theme for Sublime Text
 
 ## support 
 
