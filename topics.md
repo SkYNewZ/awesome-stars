@@ -154,6 +154,7 @@
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
@@ -201,7 +202,6 @@
 - [pytorch](#pytorch)
 - [qt](#qt)
 - [r](#r)
-- [rag](#rag)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
@@ -273,7 +273,7 @@
 ## agent 
 
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## ai 
@@ -281,7 +281,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -584,7 +584,7 @@
 ## chatgpt 
 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
@@ -693,7 +693,7 @@
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - [DEPRECATED] CHANGELOG generator implemented in Go (Golang) -&gt; Use now the actively maintained git-cliff
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [Annihil/github-spray](https://github.com/Annihil/github-spray) - :octocat: Draw on your GitHub contribution graph ░▒▓█
@@ -1351,7 +1351,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - [DEPRECATED] CHANGELOG generator implemented in Go (Golang) -&gt; Use now the actively maintained git-cliff
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
@@ -1385,7 +1385,7 @@
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - [DEPRECATED] CHANGELOG generator implemented in Go (Golang) -&gt; Use now the actively maintained git-cliff
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [Annihil/github-spray](https://github.com/Annihil/github-spray) - :octocat: Draw on your GitHub contribution graph ░▒▓█
@@ -1461,7 +1461,7 @@
 - [k0kubun/pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go language
 - [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works.
 - [wader/goutubedl](https://github.com/wader/goutubedl) - Go wrapper for youtube-dl and yt-dlp
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [boombuler/barcode](https://github.com/boombuler/barcode) - a barcode creation lib for golang
@@ -1664,7 +1664,7 @@
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [ribice/gorsk](https://github.com/ribice/gorsk) - :fire: Idiomatic Golang Restful Starter Kit
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - [DEPRECATED] CHANGELOG generator implemented in Go (Golang) -&gt; Use now the actively maintained git-cliff
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker) - Docker container for Caddy
@@ -1945,7 +1945,7 @@
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [AlecAivazis/survey](https://github.com/AlecAivazis/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
 - [ribice/gorsk](https://github.com/ribice/gorsk) - :fire: Idiomatic Golang Restful Starter Kit
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - [DEPRECATED] CHANGELOG generator implemented in Go (Golang) -&gt; Use now the actively maintained git-cliff
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -2616,7 +2616,7 @@
 ## machine-learning 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 
@@ -2698,6 +2698,10 @@
 - [rvpanoz/luna](https://github.com/rvpanoz/luna) - Manage npm dependencies through a modern UI.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 
+## malware 
+
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+
 ## markdown 
 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -2734,7 +2738,7 @@
 ## mcp 
 
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 
 ## microservices 
@@ -2819,7 +2823,6 @@
 ## nextjs 
 
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -2914,7 +2917,7 @@
 ## openai 
 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
@@ -3667,10 +3670,6 @@
 
 - [netgusto/nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
 - [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
-
-## rag 
-
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 
 ## rails 
 
