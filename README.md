@@ -897,6 +897,7 @@
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [vabs/youtube-channel-name-converter](https://github.com/vabs/youtube-channel-name-converter) - Convert Youtube Channel Name To Channel ID
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [jareware/chilipie-kiosk](https://github.com/jareware/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
@@ -1110,7 +1111,6 @@
 
 ## MDX 
 
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents
 
 ## Makefile 
