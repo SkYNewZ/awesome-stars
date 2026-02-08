@@ -74,7 +74,6 @@
 
 ## C 
 
-- [JeffreyCA/Apollo-ImprovedCustomApi](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi) - Use your own Reddit and Imgur API credentials in Apollo
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
 - [NyaMisty/AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux) - AltServer for AltStore, but on-device
@@ -1107,6 +1106,7 @@
 
 ## Logos 
 
+- [JeffreyCA/Apollo-ImprovedCustomApi](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi) - Use your own Reddit and Imgur API credentials in Apollo
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 
 ## MDX 
