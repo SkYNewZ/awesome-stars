@@ -95,6 +95,7 @@
 - [CatxFish/motion-effect](https://github.com/CatxFish/motion-effect) - obs-studio plugin for source item animation
 - [mitchellh/tree-sitter-hcl](https://github.com/mitchellh/tree-sitter-hcl) - A tree-sitter grammar for HCL (HashiCorp Configuration Language), used by projects such as Terraform.
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
+- [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
 - [quiniouben/vban](https://github.com/quiniouben/vban) - VBAN protocol open-source implementation
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -160,7 +161,6 @@
 - [dd-center/obs-streamlink](https://github.com/dd-center/obs-streamlink) - OBS source plugin to receive stream using streamlink.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
-- [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
