@@ -9,7 +9,6 @@
 - [Assembly](#assembly)
 - [AutoIt](#autoit)
 - [Batchfile](#batchfile)
-- [Bru](#bru)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -77,10 +76,6 @@
 ## Batchfile 
 
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
-
-## Bru 
-
-- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## C 
 
@@ -940,7 +935,7 @@
 - [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [KubeHelper/kubehelper](https://github.com/KubeHelper/kubehelper) - KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface. Search, analysis, run commands, cron jobs, reports, filters, git synchronization and many more.
-- [WhiteVermouth/XcodeTheme](https://github.com/WhiteVermouth/XcodeTheme) -  Xcode Light & Dark Theme for JetBrains IDEs (IntelliJ IDEA, PyCharm, RubyMine, PhpStorm, WebStorm, etc)
+- [WhiteVermouth/XcodeTheme](https://github.com/WhiteVermouth/XcodeTheme) -  Xcode Light & Dark Theme for JetBrains IDEs
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [gaia-app/gaia](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
@@ -1282,7 +1277,7 @@
 - [joeatbayes/stl-file-splitter](https://github.com/joeatbayes/stl-file-splitter) - Splits a STL file into equal sized pieces for printing.  Faster and easier than splitting in slicers
 - [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags
 - [queengooborg/Bambu-Lab-RFID-Library](https://github.com/queengooborg/Bambu-Lab-RFID-Library) - A collection of Bambu Lab filament RFID tag scans for research
-- [YourFriendlyNeighbour666/W3DPCalc](https://github.com/YourFriendlyNeighbour666/W3DPCalc) - Wild 3D Print Offline calculator. Basic calc that lets you estimate weight and costs of your 3D prints.Create profiles for printers/filaments/parts. Simplified to the bone raw Python. Version 0.2 allo
+- [YourFriendlyNeighbour666/app-w3dpcalc](https://github.com/YourFriendlyNeighbour666/app-w3dpcalc) - Wild 3D Print Offline calculator. Basic calc that lets you estimate weight and costs of your 3D prints.Create profiles for printers/filaments/parts. Simplified to the bone raw Python. Version 0.2 allo
 - [crysxd/OctoApp-Plugin](https://github.com/crysxd/OctoApp-Plugin) - Companion plugin for OctoApp
 - [matin/garth](https://github.com/matin/garth) - Garmin SSO auth + Connect Python client
 - [timi2506/iphone-mirroring-eu-activate](https://github.com/timi2506/iphone-mirroring-eu-activate) - 
@@ -1641,6 +1636,7 @@
 - [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the Elgato Stream Deck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and b
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [phntxx/dashboard](https://github.com/phntxx/dashboard) - :bar_chart: a nice and simple dashboard / landing page. (deprecated)
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
