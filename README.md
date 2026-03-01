@@ -820,7 +820,6 @@
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
