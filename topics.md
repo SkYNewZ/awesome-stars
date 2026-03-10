@@ -2964,7 +2964,7 @@
 - [PHD59fr/awtrix3](https://github.com/PHD59fr/awtrix3) - Python scripts for controlling the displays of Awtrix 3. These scripts offer features such as real-time command execution and visual effects management. They are designed for easy interaction with an 
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [geekgonecrazy/prismplus](https://github.com/geekgonecrazy/prismplus) - An RTMP multicast service.
-- [casbin/casbin](https://github.com/casbin/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
+- [apache/casbin](https://github.com/apache/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [giantswarm/schemalint](https://github.com/giantswarm/schemalint) - A JSON schema linter built for some specific purposes at Giant Swarm
 - [Finding-mll/Parking_space_alert.py](https://github.com/Finding-mll/Parking_space_alert.py) - 
 - [osmandapp/OsmAnd-iOS](https://github.com/osmandapp/OsmAnd-iOS) - OsmAnd for iOS
