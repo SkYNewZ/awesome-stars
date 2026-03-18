@@ -2798,7 +2798,7 @@
 
 ## music 
 
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [univrsal/tuna](https://github.com/univrsal/tuna) - Song information plugin for obs-studio
 - [Audacium/audacium](https://github.com/Audacium/audacium) - Free and open-source audio editor
 
@@ -3317,7 +3317,7 @@
 - [HiddenRamblings/TagMo](https://github.com/HiddenRamblings/TagMo) - 
 - [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [gobuffalo/packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
-- [putdotio/go-putio](https://github.com/putdotio/go-putio) - Put.io Go API client
+- [putdotio/go-putio](https://github.com/putdotio/go-putio) - Go SDK for put.io API
 - [FugiTech/google-meet-grid-view](https://github.com/FugiTech/google-meet-grid-view) - Userscript to offer a grid-view layout in Google Meets
 - [joonix/log](https://github.com/joonix/log) - Logging utilities
 - [kristofferahl/terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) - Terraform Provider for healthchecks.io
@@ -3679,7 +3679,7 @@
 ## raspberry-pi 
 
 - [dzomaya/NUTandRpi](https://github.com/dzomaya/NUTandRpi) - A repo for Network UPS Tools and Eaton Tripp Lite UPS demo scripts
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [jareware/chilipie-kiosk](https://github.com/jareware/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
 - [geerlingguy/raspberry-pi-dramble](https://github.com/geerlingguy/raspberry-pi-dramble) - DEPRECATED - Raspberry Pi Kubernetes cluster that runs HA/HP Drupal 8
@@ -3864,7 +3864,7 @@
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [brunoluiz/urlzap](https://github.com/brunoluiz/urlzap) - ⚡️ Your own static URL shortener
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
