@@ -1417,7 +1417,6 @@
 
 ## Rust 
 
-- [UwUDev/ygege](https://github.com/UwUDev/ygege) - High-performance indexer for services using the U2P system written in Rust
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [wouterdebie/putioarr](https://github.com/wouterdebie/putioarr) - put.io to sonarr/radarr proxy
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
