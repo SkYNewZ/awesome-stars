@@ -1280,7 +1280,7 @@
 - [queengooborg/Bambu-Lab-RFID-Library](https://github.com/queengooborg/Bambu-Lab-RFID-Library) - A collection of Bambu Lab filament RFID tag scans for research
 - [YourFriendlyNeighbour666/app-w3dpcalc](https://github.com/YourFriendlyNeighbour666/app-w3dpcalc) - Wild 3D Print Offline calculator. Basic calc that lets you estimate weight and costs of your 3D prints.Create profiles for printers/filaments/parts. Simplified to the bone raw Python. Version 0.2 allo
 - [crysxd/OctoApp-Plugin](https://github.com/crysxd/OctoApp-Plugin) - Companion plugin for OctoApp
-- [matin/garth](https://github.com/matin/garth) - Garmin SSO auth + Connect Python client
+- [matin/garth](https://github.com/matin/garth) - [DEPRECATED] Garmin SSO auth + Connect Python client
 - [timi2506/iphone-mirroring-eu-activate](https://github.com/timi2506/iphone-mirroring-eu-activate) - 
 - [obynio/certbot-plugin-gandi](https://github.com/obynio/certbot-plugin-gandi) - Certbot plugin for authentication using Gandi LiveDNS
 - [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
