@@ -2955,7 +2955,7 @@
 - [crysxd/OctoApp-Plugin](https://github.com/crysxd/OctoApp-Plugin) - Companion plugin for OctoApp
 - [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack) - 
 - [cronitorio/cronitor-cli](https://github.com/cronitorio/cronitor-cli) - Command line tools for Cronitor.io
-- [matin/garth](https://github.com/matin/garth) - Garmin SSO auth + Connect Python client
+- [matin/garth](https://github.com/matin/garth) - [DEPRECATED] Garmin SSO auth + Connect Python client
 - [audabas/bga-dark-theme](https://github.com/audabas/bga-dark-theme) - A dark css theme for boardgamearena.com
 - [magweter/spacepad](https://github.com/magweter/spacepad) - Spacepad is a simple privacy-focused room display app. Suitable for both small offices and larger deployments.
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
