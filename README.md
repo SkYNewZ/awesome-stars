@@ -896,7 +896,7 @@
 - [GoogleCloudPlatform/kubernetes-engine-samples](https://github.com/GoogleCloudPlatform/kubernetes-engine-samples) - Sample applications for Google Kubernetes Engine (GKE)
 - [ruanbekker/waypoint-python-k8s-demo](https://github.com/ruanbekker/waypoint-python-k8s-demo) - Hashicorp Waypoint with Python on Kubernetes Demo
 - [poseidon/typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform
-- [rancher/quickstart](https://github.com/rancher/quickstart) - 
+- [rancher-archives/quickstart](https://github.com/rancher-archives/quickstart) - 
 
 ## HTML 
 
