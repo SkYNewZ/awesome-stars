@@ -3388,7 +3388,7 @@
 - [spymastermatt/thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail) - A set of themes for thunderbird inspired by a Monterail blog post
 - [bunqCommunity/bunqDesktop](https://github.com/bunqCommunity/bunqDesktop) - The unofficial, free and open source desktop application for the bunq API
 - [kriswallsmith/Buzz](https://github.com/kriswallsmith/Buzz) - PHP's lightweight HTTP client
-- [rancher/quickstart](https://github.com/rancher/quickstart) - 
+- [rancher-archives/quickstart](https://github.com/rancher-archives/quickstart) - 
 - [RandomAPI/Randomuser.me-Node](https://github.com/RandomAPI/Randomuser.me-Node) - Source code that powers randomuser.me
 - [chucknorris-io/chuck-api](https://github.com/chucknorris-io/chuck-api) - 👊 chucknorris.io is a free resource for hand curated Chuck Norris facts.
 - [apilayer/languagelayer-API](https://github.com/apilayer/languagelayer-API) - Free Language Detection API for 173 Languages
