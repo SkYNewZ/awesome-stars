@@ -3041,7 +3041,7 @@
 - [Zhwt/yaml-to-go](https://github.com/Zhwt/yaml-to-go) - Translates YAML into a Go type in your browser instantly.
 - [gotify/contrib](https://github.com/gotify/contrib) - A list of community contributions.
 - [pkg/profile](https://github.com/pkg/profile) - Simple profiling for Go
-- [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
+- [sbarex/QLSyntaxHighlight](https://github.com/sbarex/QLSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [baarde/cert-manager-webhook-ovh](https://github.com/baarde/cert-manager-webhook-ovh) - OVH Webhook for Cert Manager
