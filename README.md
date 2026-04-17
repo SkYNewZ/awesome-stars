@@ -139,7 +139,7 @@
 - [ErrorFlynn/ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) - Windows graphical interface for yt-dlp, designed as a simple YouTube downloader
 - [PixelRick/CyberpunkSaveEditor](https://github.com/PixelRick/CyberpunkSaveEditor) - A tool to edit Cyberpunk 2077 sav.dat files
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
-- [sbarex/QLSyntaxHighlight](https://github.com/sbarex/QLSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
+- [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [pgkt04/defender-control](https://github.com/pgkt04/defender-control) - An open-source windows defender manager. Now you can disable windows defender permanently.
 - [acidicoala/UplayR2Unlocker](https://github.com/acidicoala/UplayR2Unlocker) - Legit DLC Unlocker for Uplay(UPC) R2
 - [CZDanol/streamdeck-discordmixer](https://github.com/CZDanol/streamdeck-discordmixer) - Discord voice chat user volume mixer plugin for Elgato Stream Deck
