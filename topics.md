@@ -3006,7 +3006,7 @@
 - [vabs/youtube-channel-name-converter](https://github.com/vabs/youtube-channel-name-converter) - Convert Youtube Channel Name To Channel ID
 - [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal
 - [muesli/ydl](https://github.com/muesli/ydl) - A simple youtube-dl library for Go
-- [putdotio/putio-webextension](https://github.com/putdotio/putio-webextension) - Download links to put.io with right-click in browsers
+- [putdotio/putio-webextension](https://github.com/putdotio/putio-webextension) - Browser extension for sending download links to put.io with a right-click
 - [djm/magno](https://github.com/djm/magno) - Magnet links search interface 🧲
 - [rafaelbiriba/my-local-putio](https://github.com/rafaelbiriba/my-local-putio) - The easiest script to synchronise all your put.io files locally. (With subtitles and socks5 support)
 - [pondorasti/emojis](https://github.com/pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
