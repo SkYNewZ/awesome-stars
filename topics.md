@@ -61,7 +61,6 @@
 - [data](#data)
 - [data-analysis](#data-analysis)
 - [data-engineering](#data-engineering)
-- [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
 - [database](#database)
@@ -751,7 +750,6 @@
 
 - [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit) - Batteries-included backend that works with any stack.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [HugoBlox/kit](https://github.com/HugoBlox/kit) - 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [Squidex/squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -913,10 +911,6 @@
 
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
-
-## data-science 
-
-- [HugoBlox/kit](https://github.com/HugoBlox/kit) - 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇
 
 ## data-structures 
 
@@ -1425,6 +1419,7 @@
 
 ## go 
 
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A production-ready QUIC implementation in pure Go
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
@@ -1688,6 +1683,7 @@
 
 ## golang 
 
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A production-ready QUIC implementation in pure Go
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
@@ -2942,6 +2938,7 @@
 
 ## others 
 
+- [coremedic/grpc-quic](https://github.com/coremedic/grpc-quic) - The Go language implementation of gRPC over QUIC
 - [bokub/conso-downloader](https://github.com/bokub/conso-downloader) - ⬇️ A browser extension to download all of your Linky meter data
 - [joeatbayes/stl-file-splitter](https://github.com/joeatbayes/stl-file-splitter) - Splits a STL file into equal sized pieces for printing.  Faster and easier than splitting in slicers
 - [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags
