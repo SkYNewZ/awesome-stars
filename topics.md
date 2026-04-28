@@ -2403,7 +2403,6 @@
 ## koa 
 
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 
 ## kotlin 
 
@@ -2937,6 +2936,7 @@
 
 ## others 
 
+- [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 - [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) - MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams via AI agents with real-time canvas sync.
 - [coremedic/grpc-quic](https://github.com/coremedic/grpc-quic) - The Go language implementation of gRPC over QUIC
 - [bokub/conso-downloader](https://github.com/bokub/conso-downloader) - ⬇️ A browser extension to download all of your Linky meter data
