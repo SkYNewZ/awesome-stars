@@ -415,7 +415,7 @@
 - [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
 - [mailru/easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
-- [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
+- [variadico/noti](https://github.com/variadico/noti) - Moved to Codeberg
 - [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
