@@ -647,7 +647,7 @@
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [outlandnish/ext-f1-tv](https://github.com/outlandnish/ext-f1-tv) - Browser Extension that enables modern playback controls + Google Cast support for F1 TV
 - [harshjv/github-repo-size](https://github.com/harshjv/github-repo-size) - 🚀 Chrome extension to display repository size on GitHub
-- [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
+- [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend code editor
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
 ## claude-code 
@@ -2201,7 +2201,6 @@
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
-- [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - 
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
@@ -4441,7 +4440,7 @@
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 5, React, Vue.js, React Native and Sketch based on Google's Material Design
-- [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
+- [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend code editor
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
