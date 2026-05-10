@@ -1057,7 +1057,7 @@
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [jaywcjlove/amac](https://github.com/jaywcjlove/amac) - This is developed for Awesome-Mac.
 - [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
-- [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
+- [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend code editor
 - [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications
 - [babel/example-node-server](https://github.com/babel/example-node-server) - Example Node Server w/ Babel
 - [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
