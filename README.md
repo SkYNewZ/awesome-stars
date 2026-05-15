@@ -481,7 +481,7 @@
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [zianwar/go-message-broker](https://github.com/zianwar/go-message-broker) - Message broker example using golang
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go - MIRROR https://codeberg.org/tidwall/gjson
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [sryoya/protorand](https://github.com/sryoya/protorand) - A random value generator for Go Protobuf messages.
 - [ent/contrib](https://github.com/ent/contrib) - A collection of extensions and tools for ent
