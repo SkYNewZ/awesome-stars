@@ -206,6 +206,7 @@
 - [pytorch](#pytorch)
 - [qt](#qt)
 - [r](#r)
+- [rag](#rag)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
@@ -278,7 +279,7 @@
 ## agent 
 
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
@@ -289,12 +290,13 @@
 
 ## ai 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -543,7 +545,7 @@
 - [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
+- [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash, fish, and zsh
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -611,7 +613,7 @@
 ## chatgpt 
 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
@@ -652,6 +654,7 @@
 
 ## claude-code 
 
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -1022,6 +1025,7 @@
 
 ## development 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
@@ -1228,7 +1232,6 @@
 ## emoji 
 
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 
 ## emulator 
@@ -2519,7 +2522,7 @@
 - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [paulbouwer/hello-kubernetes](https://github.com/paulbouwer/hello-kubernetes) - Provides a demo app to deploy to a Kubernetes cluster. It displays a message, the name of the pod and details of the node it's deployed to.
-- [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
+- [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash, fish, and zsh
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
@@ -2788,7 +2791,7 @@
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 
@@ -2967,7 +2970,7 @@
 
 ## openai 
 
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
@@ -2986,6 +2989,7 @@
 
 ## others 
 
+- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [OpenCPN/OpenCPN](https://github.com/OpenCPN/OpenCPN) - A concise ChartPlotter/Navigator. A cross-platform ship-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypo
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
@@ -3730,6 +3734,10 @@
 - [netgusto/nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
 - [HugoBlox/kit](https://github.com/HugoBlox/kit) - 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇
 
+## rag 
+
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
+
 ## rails 
 
 - [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
@@ -3852,7 +3860,7 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [netgusto/nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
-- [sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) - [WORKING PROTOTYPE] Generate QR code easily for free - QR Code Generation as a Service
+- [sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) - Generate QR code easily for free - QR Code Generation as a Service
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -4160,7 +4168,7 @@
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [atye/ttchat](https://github.com/atye/ttchat) - Twitch chats in the terminal
-- [sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) - [WORKING PROTOTYPE] Generate QR code easily for free - QR Code Generation as a Service
+- [sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) - Generate QR code easily for free - QR Code Generation as a Service
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -4453,7 +4461,7 @@
 
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) - [WORKING PROTOTYPE] Generate QR code easily for free - QR Code Generation as a Service
+- [sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) - Generate QR code easily for free - QR Code Generation as a Service
 - [nunux-keeper/keeper-web-app](https://github.com/nunux-keeper/keeper-web-app) - Nunux Keeper web app
 
 ## webpack 
@@ -4556,7 +4564,7 @@
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [mroth/evalcache](https://github.com/mroth/evalcache) - :hatching_chick: zsh plugin to cache eval loads to improve shell startup time
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
+- [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash, fish, and zsh
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
