@@ -639,6 +639,7 @@
 
 ## chrome-extension 
 
+- [putdotio/putio-webextension](https://github.com/putdotio/putio-webextension) - Browser extension for sending download links to put.io with a right-click
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
@@ -1339,6 +1340,7 @@
 
 ## frontend 
 
+- [putdotio/putio-webextension](https://github.com/putdotio/putio-webextension) - Browser extension for sending download links to put.io with a right-click
 - [spinspire/pocketbase-sveltekit-starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - a starter project to build a SvelteKit frontend with PocketBase backend
 - [tommyxchow/frosty](https://github.com/tommyxchow/frosty) - A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -2360,6 +2362,7 @@
 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [apvarun/toastify-js](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages
+- [putdotio/putio-webextension](https://github.com/putdotio/putio-webextension) - Browser extension for sending download links to put.io with a right-click
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit) - Batteries-included backend that works with any stack.
@@ -2953,6 +2956,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+- [putdotio/putio-webextension](https://github.com/putdotio/putio-webextension) - Browser extension for sending download links to put.io with a right-click
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
@@ -3059,7 +3063,6 @@
 - [vabs/youtube-channel-name-converter](https://github.com/vabs/youtube-channel-name-converter) - Convert Youtube Channel Name To Channel ID
 - [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal
 - [muesli/ydl](https://github.com/muesli/ydl) - A simple youtube-dl library for Go
-- [putdotio/putio-webextension](https://github.com/putdotio/putio-webextension) - Browser extension for sending download links to put.io with a right-click
 - [djm/magno](https://github.com/djm/magno) - Magnet links search interface 🧲
 - [rafaelbiriba/my-local-putio](https://github.com/rafaelbiriba/my-local-putio) - The easiest script to synchronise all your put.io files locally. (With subtitles and socks5 support)
 - [pondorasti/emojis](https://github.com/pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
