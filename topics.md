@@ -722,6 +722,7 @@
 - [irevenko/tsukae](https://github.com/irevenko/tsukae) - 🐚📊 Show off your most used shell commands
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) - The official Twitch CLI to make developing on Twitch easier.
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [genuinetools/img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 - [nakabonne/pbgopy](https://github.com/nakabonne/pbgopy) - Copy and paste between devices
@@ -1161,7 +1162,6 @@
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [mxpv/podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
-- [caddyserver/ingress](https://github.com/caddyserver/ingress) - WIP Caddy 2 ingress controller for Kubernetes
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
