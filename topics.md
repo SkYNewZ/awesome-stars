@@ -293,6 +293,7 @@
 
 ## ai 
 
+- [FyrbyAdditive/F-Chat](https://github.com/FyrbyAdditive/F-Chat) - An open source, macOS native LLM desktop chat client.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Dokploy/mcp](https://github.com/Dokploy/mcp) - The Official MCP package for Dokploy
 - [illegalstudio/lazyagent](https://github.com/illegalstudio/lazyagent) - Monitor all your coding agents from one terminal - Claude Code, Cursor, OpenCode, pi and more
@@ -1142,7 +1143,7 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [AlmirKadric-Published/docker-tuntap-osx](https://github.com/AlmirKadric-Published/docker-tuntap-osx) - A tuntap shim installer for "Docker for Mac"
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [heyvito/podman-macos](https://github.com/heyvito/podman-macos) - 📦  Podman frontend for macOS
@@ -2511,7 +2512,7 @@
 - [NexClipper/exporterhub.io](https://github.com/NexClipper/exporterhub.io) - A Curated List of Prometheus Exporters
 - [abhirockzz/kubexpose-operator](https://github.com/abhirockzz/kubexpose-operator) - CRD and Operator to access your Kubernetes Deployment over the Internet
 - [kubernetes-up-and-running/kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo app for Kubernetes Up and Running book
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -2603,7 +2604,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
@@ -3000,6 +3001,7 @@
 
 ## openai 
 
+- [FyrbyAdditive/F-Chat](https://github.com/FyrbyAdditive/F-Chat) - An open source, macOS native LLM desktop chat client.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
@@ -3022,6 +3024,7 @@
 
 ## others 
 
+- [tobiasbischoff/bambu-cli](https://github.com/tobiasbischoff/bambu-cli) - CLI for controlling BambuLab printers over MQTT/FTPS/camera, written in Go.
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -4447,6 +4450,7 @@
 
 ## vpn 
 
+- [ItalyPaleAle/tailsocks](https://github.com/ItalyPaleAle/tailsocks) - Route traffic through Tailscale exit nodes using a local SOCKS5 proxy
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
