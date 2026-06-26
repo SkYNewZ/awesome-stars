@@ -294,7 +294,7 @@
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Move faster with autonomy
+- [nikivdev/code](https://github.com/nikivdev/code) - 
 
 ## ai 
 
