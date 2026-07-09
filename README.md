@@ -1502,7 +1502,7 @@
 
 ## SCSS 
 
-- [audabas/bga-dark-theme](https://github.com/audabas/bga-dark-theme) - A dark css theme for boardgamearena.com
+- [audabas/bga-dark-theme](https://github.com/audabas/bga-dark-theme) - [Discontinued — BGA now has an official dark theme] A dark CSS theme for boardgamearena.com
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 
