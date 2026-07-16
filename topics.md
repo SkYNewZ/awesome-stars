@@ -3344,7 +3344,7 @@
 - [Maxmudjon/Get_MiHome_devices_token](https://github.com/Maxmudjon/Get_MiHome_devices_token) - Get Mi Home devices token Windows/MacOS app.
 - [messagebird/sachet](https://github.com/messagebird/sachet) - SMS alerts for Prometheus' Alertmanager
 - [oscarnevarezleal/gh-cms](https://github.com/oscarnevarezleal/gh-cms) - Headless CMS using Github Issues and Github Actions
-- [mkaczanowski/packer-builder-arm](https://github.com/mkaczanowski/packer-builder-arm) - Packer plugin to build ARM images
+- [mkaczanowski/packer-plugin-builder-arm](https://github.com/mkaczanowski/packer-plugin-builder-arm) - Packer plugin to build ARM images
 - [geerlingguy/turing-pi-2-cluster](https://github.com/geerlingguy/turing-pi-2-cluster) - DEPRECATED - Turing Pi 2 Cluster
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
 - [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
