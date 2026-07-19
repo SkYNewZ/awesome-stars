@@ -178,7 +178,7 @@
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 - [Morphclue/streamdeck-wakatime](https://github.com/Morphclue/streamdeck-wakatime) - WakaTime-Plugin for the Elgato Streamdeck
 - [christianselig/OpenInApolloExtension](https://github.com/christianselig/OpenInApolloExtension) - Safari extension bundled with iOS 15 that helps in opening Reddit URLs in Apollo
-- [shayne/hwinfo-streamdeck](https://github.com/shayne/hwinfo-streamdeck) - Monitor sensor readings with this HWiNFO64 Stream Deck Plugin
+- [moeilijk/hwinfo-streamdeck](https://github.com/moeilijk/hwinfo-streamdeck) - Monitor sensor readings with this HWiNFO64 Stream Deck Plugin
 - [SantiMA10/devops-streamdeck](https://github.com/SantiMA10/devops-streamdeck) - 👀 Check the status of your CI/CD environments using your Stream Deck.
 - [nicollasricas/decks-vscode](https://github.com/nicollasricas/decks-vscode) - Enables Stream Deck integration with Visual Studio Code.
 - [fredemmott/StreamDeck-Discord](https://github.com/fredemmott/StreamDeck-Discord) - Control the Discord application with the Elgato StreamDeck
@@ -1296,6 +1296,7 @@
 
 ## Python 
 
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported)
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [bradautomates/claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
