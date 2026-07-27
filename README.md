@@ -620,6 +620,7 @@
 - [hashicorp/cap](https://github.com/hashicorp/cap) - A collection of authentication Go packages related to OIDC, JWKs, Distributed Claims, LDAP
 - [bfroggio/screm](https://github.com/bfroggio/screm) - A Windows soundboard controlled via keyboard shortcuts and Twitch chat
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
+- [moeilijk/hwinfo-streamdeck](https://github.com/moeilijk/hwinfo-streamdeck) - Monitor sensor readings with this HWiNFO64 Stream Deck Plugin
 - [hashicorp/go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go
 - [stuartleeks/toast](https://github.com/stuartleeks/toast) - A go package for Windows 10 toast notifications
 - [go-toast/toast](https://github.com/go-toast/toast) - A go package for Windows 10 toast notifications
@@ -1014,7 +1015,6 @@
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
-- [moeilijk/hwinfo-streamdeck](https://github.com/moeilijk/hwinfo-streamdeck) - Monitor sensor readings with this HWiNFO64 Stream Deck Plugin
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
 - [oyyd/http-proxy-to-socks](https://github.com/oyyd/http-proxy-to-socks) - hpts(http-proxy-to-socks) is a nodejs client to convert socks proxy into http proxy
 - [der-eismann/go-f1-telemetry](https://github.com/der-eismann/go-f1-telemetry) - A project to show F1 2020 telemetry data on a second screen
