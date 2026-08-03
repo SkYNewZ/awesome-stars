@@ -357,7 +357,7 @@
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
 - [r--w/pocketbase](https://github.com/r--w/pocketbase) - PocketBase Go SDK
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI,GPT 5.5, GPT-Image-2, Whisper API clients for Go
 - [jonboulle/clockwork](https://github.com/jonboulle/clockwork) - a fake clock for golang
 - [vladimirvivien/go-plugin-example](https://github.com/vladimirvivien/go-plugin-example) - Playing around with Go 1.8 plugin system
 - [minio/selfupdate](https://github.com/minio/selfupdate) - Build self-updating Go programs
