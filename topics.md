@@ -325,7 +325,7 @@
 - [Dokploy/mcp](https://github.com/Dokploy/mcp) - The Official MCP package for Dokploy
 - [illegalstudio/lazyagent](https://github.com/illegalstudio/lazyagent) - Monitor all your coding agents from one terminal - Claude Code, Cursor, OpenCode, pi and more
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -355,7 +355,7 @@
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 
@@ -997,7 +997,7 @@
 
 ## crawler 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
@@ -2781,7 +2781,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
@@ -2912,7 +2912,7 @@
 
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -2950,6 +2950,7 @@
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [Dokploy/mcp](https://github.com/Dokploy/mcp) - The Official MCP package for Dokploy
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
@@ -3181,7 +3182,6 @@
 - [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) - Personal AI, On Personal Devices
 - [bitbonsai/mcpvault](https://github.com/bitbonsai/mcpvault) - A lightweight Model Context Protocol (MCP) server for safe Obsidian vault access
 - [tobiasbischoff/bambu-cli](https://github.com/tobiasbischoff/bambu-cli) - CLI for controlling BambuLab printers over MQTT/FTPS/camera, written in Go.
-- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [OpenCPN/OpenCPN](https://github.com/OpenCPN/OpenCPN) - A concise ChartPlotter/Navigator. A cross-platform ship-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypo
