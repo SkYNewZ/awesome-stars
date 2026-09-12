@@ -4356,6 +4356,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [mxcl/Workbench](https://github.com/mxcl/Workbench) - Seamless, automatic, “dotfile” sync to iCloud.
 - [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## swiftui 
 
@@ -4371,6 +4372,7 @@
 - [KenLPham/F1-AppleTV](https://github.com/KenLPham/F1-AppleTV) - F1TV app for the Apple TV
 - [Impedimenta/Suitcase](https://github.com/Impedimenta/Suitcase) - A flexible command line tool for instantly deploying user interfaces for simple commands and scripts.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## symfony 
 
