@@ -680,6 +680,7 @@
 
 ## chatgpt 
 
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
@@ -737,6 +738,7 @@
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [FyrbyAdditive/FyxLocal](https://github.com/FyrbyAdditive/FyxLocal) - An open source, macOS native LLM desktop chat client.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -1252,7 +1254,7 @@
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
@@ -1656,7 +1658,7 @@
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [norbjd/kueueleuleu](https://github.com/norbjd/kueueleuleu) - Run containers sequentially inside Kubernetes Pods/Jobs/CronJobs.
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go
 - [uber-go/dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
@@ -2813,6 +2815,7 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
@@ -2954,7 +2957,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents
@@ -3173,6 +3176,7 @@
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [putdotio/putio-webextension](https://github.com/putdotio/putio-webextension) - Browser extension for sending download links to put.io with a right-click
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -3217,6 +3221,7 @@
 
 ## others 
 
+- [sosoj92/signal-matin](https://github.com/sosoj92/signal-matin) - Un journal personnel A4 genere chaque matin pour remplacer le scroll.
 - [itsankoff/gopro-plus](https://github.com/itsankoff/gopro-plus) - 🎥 GoPro Plus CLI: Surpass the 25-file limit 🚧 and batch download ⬇️ your GoPro media 🎬 effortlessly. Perfect for NAS 💾 and Synology migrations 🔄. Docker image available 🐳.
 - [vinzdg/codenotch](https://github.com/vinzdg/codenotch) - A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
@@ -4028,7 +4033,7 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows & Linux.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
@@ -4214,7 +4219,7 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
@@ -4324,7 +4329,7 @@
 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 
 ## statistics 
