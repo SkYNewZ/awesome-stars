@@ -334,7 +334,6 @@
 - [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
 - [motemen/go-nuts](https://github.com/motemen/go-nuts) - Go code I want sometimes but too small to be a separate library
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go
-- [Backblaze/blazer](https://github.com/Backblaze/blazer) - A Go library for Backblaze's B2.
 - [samber/slog-logrus](https://github.com/samber/slog-logrus) - 🚨 slog: Logrus handler
 - [jussi-kalliokoski/slogdriver](https://github.com/jussi-kalliokoski/slogdriver) - Stackdriver Logging / GCP Cloud Logging handler for the go 1.21 slog package.
 - [remko/cloudrun-slog](https://github.com/remko/cloudrun-slog) - Example Cloud Run Go app with lightweight structured logging using `slog`
@@ -361,7 +360,7 @@
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
 - [r--w/pocketbase](https://github.com/r--w/pocketbase) - PocketBase Go SDK
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI, GPT 5.6, GPT-Image-2, Whisper API clients for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI, GPT 6.1, GPT-Image-2, Whisper API clients for Go. Zero-dependency.
 - [jonboulle/clockwork](https://github.com/jonboulle/clockwork) - a fake clock for golang
 - [vladimirvivien/go-plugin-example](https://github.com/vladimirvivien/go-plugin-example) - Playing around with Go 1.8 plugin system
 - [minio/selfupdate](https://github.com/minio/selfupdate) - Build self-updating Go programs
@@ -1536,6 +1535,7 @@
 - [TekWizely/pre-commit-golang](https://github.com/TekWizely/pre-commit-golang) - Pre-commit hooks for Golang with support for monorepos, the ability to pass arguments and environment variables to all hooks, and the ability to invoke custom go tools.
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
+- [Backblaze/blazer](https://github.com/Backblaze/blazer) - A Go library for Backblaze's B2.
 - [denouche/go-mod-outdated-action](https://github.com/denouche/go-mod-outdated-action) - 
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
 - [TareqAlqutami/rtmp-hls-server](https://github.com/TareqAlqutami/rtmp-hls-server) - a docker file to create a streaming server that supports RTMP, HLS and DASH content based on nginx and nginx-rtmp-module.
@@ -1680,7 +1680,7 @@
 - [Dokploy/mcp](https://github.com/Dokploy/mcp) - The Official MCP package for Dokploy
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 - [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) - MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams via AI agents with real-time canvas sync.
 - [georgslazdans/outline-app](https://github.com/georgslazdans/outline-app) - Outline recognition app
