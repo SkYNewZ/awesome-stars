@@ -1223,7 +1223,7 @@
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [muesli/muesli](https://github.com/muesli/muesli) - My secret muesli repo
 - [cdwv/awesome-helm](https://github.com/cdwv/awesome-helm) - Collaborative list of awesome helm charts and resources. PRs are welcome!
-- [stevestreza/awesome-ios-widgets](https://github.com/stevestreza/awesome-ios-widgets) - A curated list of home screen widgets for apps on iOS 14+
+- [sarahstreza/awesome-ios-widgets](https://github.com/sarahstreza/awesome-ios-widgets) - A curated list of home screen widgets for apps on iOS 14+
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [Impedimenta/Suitcase](https://github.com/Impedimenta/Suitcase) - A flexible command line tool for instantly deploying user interfaces for simple commands and scripts.
 - [GoogleCloudPlatform/cloud-code-vscode](https://github.com/GoogleCloudPlatform/cloud-code-vscode) - Cloud Code for Visual Studio Code: Issues, Documentation and more
