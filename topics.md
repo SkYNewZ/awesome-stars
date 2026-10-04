@@ -277,6 +277,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
 - [xcode](#xcode)
@@ -333,7 +334,7 @@
 - [Dokploy/mcp](https://github.com/Dokploy/mcp) - The Official MCP package for Dokploy
 - [illegalstudio/lazyagent](https://github.com/illegalstudio/lazyagent) - Monitor all your coding agents from one terminal - Claude Code, Cursor, OpenCode, pi and more
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -342,7 +343,7 @@
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -372,10 +373,10 @@
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
 
 ## analytics 
 
@@ -1029,7 +1030,7 @@
 
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
@@ -1230,7 +1231,7 @@
 ## distributed-systems 
 
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
@@ -1752,7 +1753,7 @@
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
 - [seamia/protodot](https://github.com/seamia/protodot) - transforming your .proto files into .dot files (and .svg, .png if you happen to have graphviz installed)
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -2018,7 +2019,7 @@
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
 - [seamia/protodot](https://github.com/seamia/protodot) - transforming your .proto files into .dot files (and .svg, .png if you happen to have graphviz installed)
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [zianwar/go-message-broker](https://github.com/zianwar/go-message-broker) - Message broker example using golang
@@ -2293,7 +2294,6 @@
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
-- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the Elgato Stream Deck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and b
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
@@ -2821,7 +2821,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
@@ -2957,7 +2957,7 @@
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -3008,7 +3008,7 @@
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)
 
@@ -3016,7 +3016,7 @@
 
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [Clivern/Helmet](https://github.com/Clivern/Helmet) - 🐺 A Lightweight Cloud Native API Gateway.
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
@@ -3419,6 +3419,7 @@
 - [NicolasGuilloux/blade-shadow-beta](https://github.com/NicolasGuilloux/blade-shadow-beta) - Various documentation and tools for Shadow on Linux maintained by community
 - [kic68/downdetector-exporter](https://github.com/kic68/downdetector-exporter) - This is a prometheus exporter for downdetector.com. You will need a subscription for them!
 - [exeldro/obs-source-copy](https://github.com/exeldro/obs-source-copy) - 
+- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the Elgato Stream Deck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and b
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 - [samhocevar/wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
 - [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate
@@ -3499,7 +3500,6 @@
 - [moeilijk/hwinfo-streamdeck](https://github.com/moeilijk/hwinfo-streamdeck) - Monitor sensor readings with this HWiNFO64 Stream Deck Plugin
 - [tibold/svg-explorer-extension](https://github.com/tibold/svg-explorer-extension) - Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files
 - [hashicorp/go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 - [stuartleeks/toast](https://github.com/stuartleeks/toast) - A go package for Windows 10 toast notifications
 - [univrsal/spectralizer](https://github.com/univrsal/spectralizer) - Audio visualizer plugin for obs-studio
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
@@ -4840,6 +4840,17 @@
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
 - [rvpanoz/luna](https://github.com/rvpanoz/luna) - Manage npm dependencies through a modern UI.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
+
+## windows-11 
+
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+- [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
+- [lively-community/lively](https://github.com/lively-community/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+- [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 
 ## wordpress 
 
