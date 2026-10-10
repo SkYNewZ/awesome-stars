@@ -25,6 +25,7 @@
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -491,7 +492,7 @@
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [ariga/atlas](https://github.com/ariga/atlas) - Declarative schema migrations with schema-as-code workflows
 - [carvalhorr/protoc-gen-mock](https://github.com/carvalhorr/protoc-gen-mock) - 
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [seamia/protodot](https://github.com/seamia/protodot) - transforming your .proto files into .dot files (and .svg, .png if you happen to have graphviz installed)
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -946,6 +947,10 @@
 - [samtay/tetris](https://github.com/samtay/tetris) - A terminal interface for Tetris
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 
+## JSON 
+
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
+
 ## Java 
 
 - [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
@@ -995,7 +1000,6 @@
 - [samsarahq/thunder](https://github.com/samsarahq/thunder) - ⚡️ A Go framework for rapidly building powerful graphql services
 - [Zhwt/yaml-to-go](https://github.com/Zhwt/yaml-to-go) - Translates YAML into a Go type in your browser instantly.
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
-- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [TheGoddessInari/netflix-1080p-firefox](https://github.com/TheGoddessInari/netflix-1080p-firefox) - 🍿 Force 1080p Netflix playback in Firefox
 - [arnauddrain/yggplus](https://github.com/arnauddrain/yggplus) - A plugin for YGG torrent interface
 - [tobimori/streamdeck-toggl](https://github.com/tobimori/streamdeck-toggl) - ⏱️ Make time tracking a 🍰 piece of cake, with Toggl Track and Elgato Stream Deck (Toggl Track integration for Stream Deck)
@@ -1526,7 +1530,7 @@
 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [dzomaya/NUTandRpi](https://github.com/dzomaya/NUTandRpi) - A repo for Network UPS Tools and Eaton Tripp Lite UPS demo scripts
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
 - [appleboy/scp-action](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH.
@@ -1713,7 +1717,7 @@
 - [GeekyEggo/sdpi-components](https://github.com/GeekyEggo/sdpi-components) - Web components for your Stream Deck plugin; take the hassle out of the property inspector.
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
 - [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit) - Batteries-included backend that works with any stack.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
