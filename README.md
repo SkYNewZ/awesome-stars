@@ -645,7 +645,7 @@
 - [nodauf/Girsh](https://github.com/nodauf/Girsh) - Automatically spawn a reverse shell fully interactive for Linux or Windows victim
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [oz/tz](https://github.com/oz/tz) - 🌐 A time zone helper
-- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+- [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 - [buraksezer/connpool](https://github.com/buraksezer/connpool) - Connection pool for Go's net.Conn interface
 - [go-pdf/fpdf](https://github.com/go-pdf/fpdf) - A PDF document generator with high level support for text, drawing and images
 - [fossteams/teams-cli](https://github.com/fossteams/teams-cli) - A CLI / TUI for Microsoft Teams
@@ -1628,7 +1628,7 @@
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [kmikiy/SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify & Apple Music in your macOS menu bar
 - [mssun/passforios](https://github.com/mssun/passforios) - Pass for iOS - an iOS client compatible with Pass command line application.
-- [NoahFetz/F1AppleTV](https://github.com/NoahFetz/F1AppleTV) - F1TV Client for AppleTV
+- [NoahFetz/F1AppleTV](https://github.com/NoahFetz/F1AppleTV) - F1TV Client for AppleTV and macOS
 - [kuglee/TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [0x0c/AppleDevToys](https://github.com/0x0c/AppleDevToys) - A Swiss Army knife for iOS and macOS.
