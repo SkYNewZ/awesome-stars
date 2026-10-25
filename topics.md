@@ -88,6 +88,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -1376,6 +1377,13 @@
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
+
+## downloader 
+
+- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+- [yestinj/PutioCallbackCatcher](https://github.com/yestinj/PutioCallbackCatcher) - A 'download complete' callback catcher for put.io
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## dsh-plugin 
 
@@ -3406,7 +3414,6 @@
 - [hashicorp/terraform-provider-scaffolding-framework](https://github.com/hashicorp/terraform-provider-scaffolding-framework) - Quick start repository for creating a Terraform provider using terraform-plugin-framework
 - [codegangsta/caddy-nats](https://github.com/codegangsta/caddy-nats) - A caddy module that adds support for nats.io pub/sub and request/reply
 - [RoyXiang/putcallback](https://github.com/RoyXiang/putcallback) - 
-- [yestinj/PutioCallbackCatcher](https://github.com/yestinj/PutioCallbackCatcher) - A 'download complete' callback catcher for put.io
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
 - [kuglee/TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
 - [acidicoala/UplayR2Unlocker](https://github.com/acidicoala/UplayR2Unlocker) - Legit DLC Unlocker for Uplay(UPC) R2
