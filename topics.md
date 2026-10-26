@@ -3264,6 +3264,7 @@
 
 ## others 
 
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [better-auth/better-icons](https://github.com/better-auth/better-icons) - Skill and MCP server for searching and retrieving icons
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
@@ -3271,7 +3272,7 @@
 - [itsankoff/gopro-plus](https://github.com/itsankoff/gopro-plus) - 🎥 GoPro Plus CLI: Surpass the 25-file limit 🚧 and batch download ⬇️ your GoPro media 🎬 effortlessly. Perfect for NAS 💾 and Synology migrations 🔄. Docker image available 🐳.
 - [vinzdg/codenotch](https://github.com/vinzdg/codenotch) - A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser 
 - [tl5915/Nitrox](https://github.com/tl5915/Nitrox) - Nitrox Analyser V2
 - [bradautomates/claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
@@ -3372,7 +3373,7 @@
 - [LucyBot-Inc/api-spec-converter](https://github.com/LucyBot-Inc/api-spec-converter) - Convert API descriptions between popular formats such as OpenAPI(fka Swagger), RAML, API Blueprint, WADL, etc.
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
 - [ErrorFlynn/ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface) - Windows graphical interface for yt-dlp, designed as a simple YouTube downloader
-- [worthbak/inventory-checker-app](https://github.com/worthbak/inventory-checker-app) - A macOS app for checking Apple Store inventory
+- [drallgood/inventory-checker-app](https://github.com/drallgood/inventory-checker-app) - A macOS app for checking Apple Store inventory
 - [PixelRick/CyberpunkSaveEditor](https://github.com/PixelRick/CyberpunkSaveEditor) - A tool to edit Cyberpunk 2077 sav.dat files
 - [Deweh/CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - A simplified offshoot of SirBitesalot's CyberCAT.
 - [stejoo/ansible-teamspeak](https://github.com/stejoo/ansible-teamspeak) - Ansible role to deploy a TeamSpeak 3 server
