@@ -970,7 +970,7 @@
 ## JavaScript 
 
 - [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.
-- [karanb192/awesome-claude-code-mods](https://github.com/karanb192/awesome-claude-code-mods) - 8,000+ Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status lines, guards and more, with install hints.
+- [karanb192/awesome-claude-code-mods](https://github.com/karanb192/awesome-claude-code-mods) - 9,000+ Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status lines, guards and more, with install hints.
 - [dickwu/apple-design-skill](https://github.com/dickwu/apple-design-skill) - Cross-platform UI/UX design reviewer based on Apple HIG. Works with Flutter, Tauri, Electron, React Native. Compatible with Claude Code, Cursor, Codex.
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
